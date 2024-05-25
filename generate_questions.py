@@ -2,6 +2,7 @@ import os
 import random
 import datetime
 import yaml
+import argparse
 
 def get_current_timestamp():
     return datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
@@ -65,9 +66,16 @@ Line Break
 """
 
 def main():
-    categories = load_categories_from_yaml('categories.yaml')
+    parser = argparse.ArgumentParser(description="Generate a PDF with math questions.")
+    parser.add_argument('--config', type=str, default='categories.yaml', help='Path to the YAML configuration file')
+    args = parser.parse_args()
+
+    if not os.path.exists('output'):
+        os.makedirs('output')
+
+    categories = load_categories_from_yaml(args.config)
     questions_by_category = {}
-    
+        
     for category in categories:
         question_files = list_question_files(category)
         

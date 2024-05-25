@@ -24,6 +24,7 @@ Elementary-Math-Questions/
 ├── output/
 │   └── sample_output.pdf
 ├── categories.yaml
+├── custom_categories.yaml
 ├── generate_questions.py
 └── requirements.txt
 ```
@@ -43,7 +44,8 @@ Elementary-Math-Questions/
   - `template.tex`: LaTeX template file.
 - `output/`: Directory where the generated PDF will be saved.
   - `sample_output.pdf`: Example of a generated PDF file.
-- `categories.yaml`: YAML file containing the list of categories and their descriptions.
+- `categories.yaml`: Default configuration file. This YAML file contains the full list of categories and their descriptions.
+- `custom_categories.yaml`: Custom configuration file. This YAML file is created by the user on the fly and typically contains a subset of the categories and their descriptions (which could differ from the default descriptions)
 - `generate_questions.py`: The main script for generating the LaTeX document and compiling it into a PDF.
 - `requirements.txt`: Lists the required Python packages.
 
@@ -147,6 +149,8 @@ categories:
     description: Ratios
 ```
 
+For each category dictionary, the value of 'directory' key is the exact name of the subdirectory in which the question files are stored, while the value of the 'description' key is the subsection title that will be included in the LaTex file and printed on the actual PDF document.
+
 ## Usage
 
 Run the script to generate the PDF:
@@ -170,6 +174,14 @@ How many questions from the category 'percentages'? (Enter 'all' to select all q
 ```
 
 The generated PDF will be saved in the `output/` directory with a filename that includes the current date and time, ensuring it is unique and valid on any operating system.
+
+## Custom Configuration File
+
+It is possible to have the Python script compile from a custom configuration file. Create another `.yaml` file (for example, `custom_categories.yaml`) and run the script as follows:
+
+```sh
+python generate_questions.py --config custom_categories.yaml
+```
 
 ## LaTeX Template
 
