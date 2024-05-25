@@ -1,0 +1,8 @@
+# Ignore all files that start with "question" in the examples directory
+/output/question*
+
+# Other ignore patterns
+node_modules/
+.DS_Store
+*.log
+directory_listing.txt

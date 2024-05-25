@@ -1,0 +1,7 @@
+Find the prime factorisation of each of the following numbers, expressing your answers in index notation.
+
+(a) 315
+
+(b) 1575
+
+(c) 4356

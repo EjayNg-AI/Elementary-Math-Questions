@@ -1,0 +1,9 @@
+Using prime factorisation, find
+
+(a) $\sqrt{676}$
+
+(b) $\sqrt{1296}$
+
+(c) $\sqrt[3]{4096}$
+
+(d) $\sqrt[3]{1728}$

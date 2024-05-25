@@ -1,0 +1,1 @@
+(a) $3^2 \times 5 \times 7$, (b) $3^2 \times 5^2 \times 7$, (c) $2^2 \times 3^2 \times 11^2$

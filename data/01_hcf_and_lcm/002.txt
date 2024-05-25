@@ -1,0 +1,9 @@
+Find the Highest Common Factor (HCF) of each of the following sets of numbers.
+
+(a) 55 and 605
+
+(b) 126 and 567
+
+(c) 36, 72 and 135
+
+(d) 30, 75 and 225

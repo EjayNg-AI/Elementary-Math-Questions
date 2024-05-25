@@ -1,0 +1,9 @@
+Find the Lowest Common Multiple (LCM) of each of the following sets of numbers.
+
+(a) 36 and 90
+
+(b) 56 and 126
+
+(c) 48, 108 and 126
+
+(d) 126, 168 and 756

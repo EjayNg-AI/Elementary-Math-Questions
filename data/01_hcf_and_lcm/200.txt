@@ -1,0 +1,9 @@
+(a) Express 3375 and 8100 as a product of prime factors, leaving your answer in index notation.
+
+(b) Hence,
+
+(i) find the HCF of 3375 and 8100,
+
+(ii) evaluate $\sqrt[3]{3375}$ and $\sqrt{8100}$,
+
+(iii) state the LCM of $\sqrt[3]{3375}$ and $\sqrt{8100}$.

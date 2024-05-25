@@ -1,0 +1,3 @@
+(a) Express 3675 as a product of its prime factors, giving your answer in index notation.
+
+(b) Hence, state the smallest integer value of $n$ such that $3675 n$ is a perfect square.
