@@ -1,0 +1,3 @@
+(a) Find the smallest positive integer value of $n$ for which $63 n$ is a multiple of 49.
+ 
+(b) Find the smallest integer $p$, such that $126 p$ is a perfect square.

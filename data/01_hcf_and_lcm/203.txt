@@ -1,0 +1,3 @@
+(a) Find the smallest integer $p$ such that $42 p$ is a multiple of the number, $2 \times 3^2 \times 5$.
+
+(b) Find the smallest integer $k$ such that $\frac{1440}{k}$ is a perfect square.
