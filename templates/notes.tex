@@ -1,0 +1,209 @@
+\documentclass[12pt]{article} 
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+
+\begin{document}
+
+\section*{Numbers}
+
+\subsection*{Types of Numbers:}
+
+\begin{itemize}
+\item Natural Numbers: $\mathbb{N} = \{1,2,3, \ldots\}$
+\item Whole Numbers: $\mathbb{N} \cup \{0\} =\{0,1,2,3, \ldots\}$
+\item Integers: $\mathbb{Z} =\{\ldots,-2,-1,0,1,2, \ldots\}$
+\item Rational Numbers: $\mathbb{Q} = \left\{\frac{a}{b} \ : \  a, b \in \mathbb{Z} \ , \ b \neq 0 \right\}$. Rational Numbers comprise of fractions (includes all proper and improper fractions and mixed numbers). All terminating decimals (eg, $10.87$) and recurring decimals (eg, $0.3\dot{7}\dot{1} = 0.3717171\ldots$) are rational numbers because these can all be expressed as fractions. All integers are rational numbers.
+\item Irrational Numbers: numbers that cannot be expressed in the form $\frac{a}{b}$, where $a$ and $b$ are integers and $b \neq 0$. Eg. $\pi$, $\sqrt{2}$, $\sqrt{5}$, $-4\sqrt{7}$, $e$, $2.75e$, etc. Irrational numbers are non-recurring decimals. Any non-zero rational number multiplied to an irrational number results in an irrational number. For example, $-\frac{3}{4}\pi$ is irrational.
+\item Perfect Squares: $\{1,4,9,16,25, \ldots\}$
+\item Perfect Cubes: $\{1,8,27,64, \ldots\}$
+\item Prime Numbers: Positive integers at least 2 whose only divisors are 1 and itself. $\{2,3,5,7,11,13,17,19,23, \ldots\}$
+\end{itemize}
+
+\subsection*{Equality and Inequality Symbols}
+
+\begin{tabular}{|c|l|l|}
+	\hline Symbol & \multicolumn{1}{|c|}{ Meaning } & \multicolumn{1}{|c|}{ Example } \\
+	\hline$=$ & is equal to & $0.1=\frac{1}{10}$ \\
+	\hline$\neq$ & is not equal to & $0.11 \neq \frac{1}{10}$ \\
+	\hline$>$ & is greater than & $0.1>0.01$ \\
+	\hline$\geqslant$ & is greater than or equal to & $a \geqslant 5$ \\
+	\hline$<$ & is less than & $0.05<5$ \\
+	\hline$\leqslant$ & is less than or equal to & $b \leqslant 5$ \\
+	\hline
+\end{tabular}
+
+\subsection*{Prime Factorization, HCF, LCM} 
+
+\noindent
+Example of prime factorization:
+
+\begin{tabular}{r|c}
+	2 & 4356 \\
+	\cline { 2 - 2 } 2 & 2178 \\
+	\cline { 2 - 2 } 3 & 1089 \\
+	\cline { 2 - 2 } 3 & 363 \\
+	\cline { 2 - 2 } 11 & 121 \\
+	\cline { 2 - 2 } & 11 \\
+	\hline 
+\end{tabular}
+
+\noindent
+Hence $4356=2^2 \times 3^2 \times 11^2$ (in index notation).
+
+\bigskip 
+
+\noindent
+Example of HCF and LCM using prime factorization:
+
+\noindent
+$
+\begin{aligned}
+	& 4800=2^6 \times 3 \times 5^2 \\
+	& 5544=2^3 \times 3^2 \times 7 \times 11
+\end{aligned}
+$
+
+\noindent
+$\mathrm{HCF}=2^3 \times 3$
+
+\noindent
+[take common prime factors and lowest power of each]
+
+\noindent
+$\mathrm{LCM}=2^6 \times 3^2 \times 5^2 \times 7 \times 11$
+
+\noindent
+[take all prime factors and highest power of each]
+
+\bigskip 
+
+\noindent
+Examples of square roots and cube roots using prime factorization:
+
+\noindent
+$\begin{aligned} 54756 & =2^2 \times 3^4 \times 13^2 \\ \sqrt{54756} & =2 \times 3^2 \times 13 \\ & =234\end{aligned}$
+
+\noindent
+$\begin{aligned} 1728 & =2^6 \times 3^3 \\ \sqrt[3]{1728} & =2^2 \times 3 \\ & =12\end{aligned}$
+
+\subsection*{Approximation}
+
+\subsubsection*{Significant Figures}
+
+\noindent
+Rules of identifying number of significant digits:
+
+\begin{enumerate} 
+\item All non-zero digits are significant.
+\item Zeros between non-zero digits are significant. 
+
+Eg. 302 (3 sf)
+
+Eg. 10.2301 (6 sf)
+
+\item In a whole number, zeros after the last nonzero digit may or may not be significant. It depends on the estimation being made.
+
+Eg.
+
+$
+\begin{aligned}
+	& 7436000=7000000 \ (1 \ \mathrm{sf}) \\
+	& 7436000=7400000 \ (2 \ \mathrm{sf}) \\
+	& 7436000=7440000 \ (3 \ \mathrm{sf}) \\
+	& 7436000=7436000 \ (4 \ \mathrm{sf}) \\
+	& 7436000=7436000 \ (5 \ \mathrm{sf}) \\
+	& 7436000=7436000 \ (6 \ \mathrm{sf}) \\
+\end{aligned}
+$
+
+\item In a decimal number, zeros before the $1^{\text{st}}$ non-zero digit are not significant.
+
+Eg. $0.004 \ (1 \ \mathrm{sf})$
+
+Eg. $0.07008 \ (4 \ \mathrm{sf})$
+
+\item In a decimal number, zeros after the last non-zero digit are significant.
+
+Eg. $6.40 \ (3 \ \mathrm{sf})$
+
+Eg. $12.000 \ (5 \ \mathrm{sf})$
+
+Eg. $20300.000 \ (8 \ \mathrm{sf})$
+
+Eg. $0.0700800 \ (6 \ \mathrm{sf})$
+\end{enumerate} 
+
+\subsubsection*{Decimal Place Rounding}
+
+\noindent 
+Examples:
+
+\noindent
+$
+\begin{aligned}
+	& 0.7374=0.74 \ (2 \ \mathrm{dp}) \\
+	& 58.301=58.30 \ (2 \ \mathrm{dp}) \\
+	& 207.6296=207.630 \ (3 \ \mathrm{dp}) \\
+	& 207.6296=207.63 \ (2 \ \mathrm{dp}) \\
+    & 207.977=208.0 \ (1 \ \mathrm{dp}) \\
+    & 207.977=207.98 \ (2 \ \mathrm{dp}) \\
+    & 18.997=19.00 \ (2 \ \mathrm{dp})
+\end{aligned}
+$
+
+\subsection*{Standard Form}
+
+\noindent
+$\pm A \times 10^n$, where $1 \leq A < 10$ and $n$ is an integer.
+
+\bigskip 
+
+\noindent
+Examples:
+
+\noindent
+$
+\begin{aligned}
+	& 1350000=1.35 \times 10^6 \\
+	& 0.000375=3.75 \times 10^{-4}
+\end{aligned}
+$
+
+\subsection*{Common Prefixes}
+
+\begin{tabular}{|l|l|l|l|}
+	\hline $10^{12}$ & trillion & tera & $\mathrm{T}$ \\
+	\hline $10^9$ & billion & giga & $\mathrm{G}$ \\
+	\hline $10^6$ & million & mega & $\mathrm{M}$ \\
+	\hline $10^3$ & thousand & kilo & $\mathrm{k}$ \\
+	\hline $10^{-3}$ & thousandth & milli & $\mathrm{m}$ \\
+	\hline $10^{-6}$ & millionth & micro & $\mu$ \\
+	\hline $10^{-9}$ & billionth & nano & $\mathrm{n}$ \\
+	\hline $10^{-12}$ & trillionth & pico & $\mathrm{p}$ \\
+	\hline
+\end{tabular}
+
+\subsection*{Indices}
+
+\noindent 
+Rules of Indices:
+
+\noindent 
+$\begin{gathered} a^0=1 \\ a^m \times a^n=a^{m+n} \\ a^m \div a^n=a^{m-n} \\ (a b)^n=a^n b^n \\ \left(\frac{a}{b}\right)^n=\frac{a^n}{b^n} \\ \left(a^n\right)^m=a^{n m} \\ a^{-n}=\frac{1}{a^n} \\ \left(\frac{a}{b}\right)^{-n}=\frac{b^n}{a^n} \\  a^{\frac{1}{n}}=\sqrt[n]{a} \\ a^{\frac{m}{n}}=\sqrt[n]{a^m}=(\sqrt[n]{a})^m\end{gathered}$
+
+\subsection*{Direct and Inverse Proportion}
+
+\noindent 
+If $y$ is directly proportional to $x$, then $y=k x$, where $k$ is a constant and $k \neq 0$. The ratios $\frac{x}{y}$ and $\frac{y}{x}$ are constant. Furthermore, the graph on $y$ against $x$ (or of $x$ against $y$) is a straight line through the origin.
+
+\includegraphics[width=0.4\textwidth]{01.png}
+
+\bigskip 
+
+\noindent 
+If $y$ is inversely proportional to $x$, then $y=\frac{k}{x}$, where $k$ is a constant and $k \neq 0$. The product $xy$ is constant. 
+
+\includegraphics[width=0.4\textwidth]{02.png}
+
+\end{document}
