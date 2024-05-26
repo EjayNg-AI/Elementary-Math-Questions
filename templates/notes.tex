@@ -1,4 +1,4 @@
-\documentclass[12pt]{article} 
+\documentclass[twocolumn]{article}
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{graphicx}
@@ -17,7 +17,7 @@
 \item Irrational Numbers: numbers that cannot be expressed in the form $\frac{a}{b}$, where $a$ and $b$ are integers and $b \neq 0$. Eg. $\pi$, $\sqrt{2}$, $\sqrt{5}$, $-4\sqrt{7}$, $e$, $2.75e$, etc. Irrational numbers are non-recurring decimals. Any non-zero rational number multiplied to an irrational number results in an irrational number. For example, $-\frac{3}{4}\pi$ is irrational.
 \item Perfect Squares: $\{1,4,9,16,25, \ldots\}$
 \item Perfect Cubes: $\{1,8,27,64, \ldots\}$
-\item Prime Numbers: Positive integers at least 2 whose only divisors are 1 and itself. $\{2,3,5,7,11,13,17,19,23, \ldots\}$
+\item Prime Numbers: Positive integers at least 2 whose only positive divisors are 1 and itself. $\{2,3,5,7,11,13,17,19,23, \ldots\}$
 \end{itemize}
 
 \subsection*{Equality and Inequality Symbols}
@@ -35,8 +35,8 @@
 
 \subsection*{Prime Factorization, HCF, LCM} 
 
-\noindent
-Example of prime factorization:
+\begin{itemize}
+\item Example of prime factorization:
 
 \begin{tabular}{r|c}
 	2 & 4356 \\
@@ -48,15 +48,10 @@ Example of prime factorization:
 	\hline 
 \end{tabular}
 
-\noindent
 Hence $4356=2^2 \times 3^2 \times 11^2$ (in index notation).
 
-\bigskip 
+\item Example of HCF and LCM using prime factorization:
 
-\noindent
-Example of HCF and LCM using prime factorization:
-
-\noindent
 $
 \begin{aligned}
 	& 4800=2^6 \times 3 \times 5^2 \\
@@ -64,28 +59,20 @@ $
 \end{aligned}
 $
 
-\noindent
 $\mathrm{HCF}=2^3 \times 3$
 
-\noindent
 [take common prime factors and lowest power of each]
 
-\noindent
 $\mathrm{LCM}=2^6 \times 3^2 \times 5^2 \times 7 \times 11$
 
-\noindent
 [take all prime factors and highest power of each]
 
-\bigskip 
+\item Examples of square roots and cube roots using prime factorization:
 
-\noindent
-Examples of square roots and cube roots using prime factorization:
+$\begin{aligned} 54756 & =2^2 \times 3^4 \times 13^2 \\ \sqrt{54756} & =2 \times 3^2 \times 13 = 234\end{aligned}$
 
-\noindent
-$\begin{aligned} 54756 & =2^2 \times 3^4 \times 13^2 \\ \sqrt{54756} & =2 \times 3^2 \times 13 \\ & =234\end{aligned}$
-
-\noindent
-$\begin{aligned} 1728 & =2^6 \times 3^3 \\ \sqrt[3]{1728} & =2^2 \times 3 \\ & =12\end{aligned}$
+$\begin{aligned} 1728 & =2^6 \times 3^3 \\ \sqrt[3]{1728} & =2^2 \times 3 = 12\end{aligned}$
+\end{itemize}
 
 \subsection*{Approximation}
 
@@ -190,12 +177,38 @@ $
 Rules of Indices:
 
 \noindent 
-$\begin{gathered} a^0=1 \\ a^m \times a^n=a^{m+n} \\ a^m \div a^n=a^{m-n} \\ (a b)^n=a^n b^n \\ \left(\frac{a}{b}\right)^n=\frac{a^n}{b^n} \\ \left(a^n\right)^m=a^{n m} \\ a^{-n}=\frac{1}{a^n} \\ \left(\frac{a}{b}\right)^{-n}=\frac{b^n}{a^n} \\  a^{\frac{1}{n}}=\sqrt[n]{a} \\ a^{\frac{m}{n}}=\sqrt[n]{a^m}=(\sqrt[n]{a})^m\end{gathered}$
+$\begin{gathered} a^0=1 \\ a^m \times a^n=a^{m+n} \\ a^m \div a^n=a^{m-n} \\ (a b)^n=a^n b^n \\ \left(\frac{a}{b}\right)^n=\frac{a^n}{b^n} \\ \left(a^n\right)^m=a^{n m} \\ a^{-n}=\frac{1}{a^n} \\ \left(\frac{a}{b}\right)^{-n}=\left(\frac{b}{a}\right)^n=\frac{b^n}{a^n} \\  a^{\frac{1}{n}}=\sqrt[n]{a} \\ a^{\frac{m}{n}}=\sqrt[n]{a^m}=(\sqrt[n]{a})^m\end{gathered}$
+
+\noindent
+Caution:
+
+\noindent
+1. For indices (powers) that are not integers, then the above rules of indices hold only for $a,b \geq 0$, or only for $a,b > 0$ if the rule involves division by either $a$ or $b$. The rule $a^0=1$ holds only for non-zero values of $a$.
+
+\noindent
+2. $\sqrt{(-8)^2} = \sqrt{64} = 8$, NOT $-8$.
+
+\noindent
+3. $\sqrt[3]{-27} = -3$.
+
+\bigskip 
+
+\noindent 
+Equalities of Indices:
+
+\noindent 
+1. If $a^m=a^{\prime \prime}$, then $m=n$.
+
+\noindent 
+2. If $a^m=b^m$, then $a=b$.
 
 \subsection*{Direct and Inverse Proportion}
 
 \noindent 
 If $y$ is directly proportional to $x$, then $y=k x$, where $k$ is a constant and $k \neq 0$. The ratios $\frac{x}{y}$ and $\frac{y}{x}$ are constant. Furthermore, the graph on $y$ against $x$ (or of $x$ against $y$) is a straight line through the origin.
+
+\noindent
+Graph showing that $y$ is directly proportional to  $x$:
 
 \includegraphics[width=0.4\textwidth]{01.png}
 
@@ -203,6 +216,9 @@ If $y$ is directly proportional to $x$, then $y=k x$, where $k$ is a constant an
 
 \noindent 
 If $y$ is inversely proportional to $x$, then $y=\frac{k}{x}$, where $k$ is a constant and $k \neq 0$. The product $xy$ is constant. 
+
+\noindent
+Graph showing that $y$ is inversely proportional to  $x$:
 
 \includegraphics[width=0.4\textwidth]{02.png}
 
