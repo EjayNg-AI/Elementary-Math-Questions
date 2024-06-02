@@ -1,0 +1,9 @@
+David drove for 4 hours at an average speed of $x \mathrm{~km} / \mathrm{h}$ and then for 6 hours at an average speed of $y \mathrm{~km} / \mathrm{h}$. He drove a total distance of $890 \mathrm{~km}$.
+
+(a) Write down an equation in terms of $x$ and $y$, and show that it simplifies to $2 x+3 y=445$.
+
+Gideon drove for 3 hours at an average speed of $x \mathrm{~km} / \mathrm{h}$ and then 5 hours at an average speed of $y \mathrm{~km} / \mathrm{h}$. He drove a total distance of $713 \mathrm{~km}$.
+
+(b) Using the information, write down an equation in terms of $x$ and $y$.
+
+(c) Solve the equations in (a) and (b) to find the value of $x$ and the value of $y$.

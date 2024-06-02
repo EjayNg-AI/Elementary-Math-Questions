@@ -1,0 +1,1 @@
+A two-digit number is 4 times the sum of its digits. If the digits are reversed, the number will be increased by 27 . Find the number by using a pair of simultaneous linear equations.

@@ -1,0 +1,7 @@
+A two-digit number has $x$ as its tens digit and $y$ as its ones digit.
+
+(a) The sum of these two digits is 15 . Form an equation to represent this information in terms of $x$ and $y$.
+
+(b) When the digits of the number are reversed and the number is subtracted from the original number, the result obtained is 27. Form another equation to represent this information in terms of $x$ and $y$ without simplifying.
+
+(c) Hence, by solving these two equations, find the two-digit number.

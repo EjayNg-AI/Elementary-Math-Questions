@@ -1,0 +1,5 @@
+(a) If $(2,-1)$ is a solution of the simultaneous equations $m x+n y=3$ and $m x=n y+5$, find the value of $m$ and of $n$.
+
+(b) If $x=-3$ and $x=4$ are solutions to the the quadratic equation $a x^2+b x-24=0$. Find the value of $a$ and of $b$.
+
+(c) The sum of the digits of a two-digit number is 12. Given that the number is 9 less than 12 times of its tens-digit, find the number.

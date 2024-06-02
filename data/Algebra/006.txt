@@ -1,0 +1,1 @@
+A fraction becomes $\frac{2}{9}$ when 1 is subtracted from its numerator and its denominator is doubled. It becomes $\frac{3}{4}$ when its numerator is tripled and 11 is added to its denominator. Find the fraction.
