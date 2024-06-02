@@ -1,0 +1,5 @@
+The floor of a studio unit is to be laid with identical square tiles. If the dimension of the floor is $4.8 \mathrm{~m}$ by $6.4 \mathrm{~m}$, find
+
+(a) the largest possible length in $\mathrm{cm}$ of the side of each tile,
+
+(b) the number of tiles required to fully lay the whole floor.

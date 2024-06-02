@@ -1,0 +1,1 @@
+When a packet of $x$ sweets is divided into bags of 15,36 or 45 , there is always a remainder of 5 sweets. What is the smallest possible value of $x$?

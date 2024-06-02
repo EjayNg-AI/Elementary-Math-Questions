@@ -1,0 +1,1 @@
+The HCF and LCM of three numbers are 12 and $2^3 \times 3^3 \times 11$ respectively. If two of the numbers are 108 and 72 , find the smallest possible value of the third number, leaving your answer as a product of prime factors in index notation.

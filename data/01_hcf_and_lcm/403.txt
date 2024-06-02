@@ -1,0 +1,5 @@
+Two numbers $a$ and $b$, written as the products of their prime factors, are $a=2^2 \times 11^2$ and $b=2 \times 3^2 \times 11$.
+
+(a) Find the value of $\sqrt[3]{\frac{3 a b}{1000}}$.
+
+(b) What is the smallest positive integer $n$ for which $30 n$ is a multiple of $b$ ?

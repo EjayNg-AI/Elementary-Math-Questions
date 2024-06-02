@@ -1,0 +1,5 @@
+(a) Express 129600 as a product of its prime factors.
+
+(b) Using your answer to (a), explain why 129600 is a perfect square.
+
+(c) Given that $p$ and $q$ are prime numbers, find the values of $p$ and $q$ such that $\frac{129600 p}{q}$ is a perfect cube.	

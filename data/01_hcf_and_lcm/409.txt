@@ -1,0 +1,5 @@
+A company packs 1144 boxes of chocolates, 352 packets of juice and 572 sandwiches into as many goodie bags as possible for their employees. The number of boxes of chocolates, packets of juice and sandwiches are divided equally among all goodie bags.
+
+a) What is the maximum number of goodie bags that can be prepared?
+
+b) How many boxes of chocolate, packets of juice and sandwiches are found in each goodie bag?

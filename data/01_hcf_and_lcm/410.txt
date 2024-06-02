@@ -1,0 +1,1 @@
+A realm of ribbons was shared equally among four tailors. They cut their ribbons into $5\mathrm{cm}$, $8\mathrm{cm}$, $12\mathrm{cm}$ and $16\mathrm{cm}$ pieces respectively. To minimize wastage, they needed to ensure that there was no leftover after the cutting. What was the total length of the original ribbon?

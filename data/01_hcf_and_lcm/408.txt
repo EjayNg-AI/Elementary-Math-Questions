@@ -1,0 +1,1 @@
+Ali has $x$ apples. If he divides the apples among 4 boys, 5 boys or 9 boys, the remainder is 3,4 and 8 apples respectively. What is the smallest possible value of $x$?

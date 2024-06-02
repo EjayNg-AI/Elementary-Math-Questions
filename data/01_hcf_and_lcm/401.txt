@@ -1,0 +1,11 @@
+(a) Express 108 as a product of its prime factors.
+
+(b) Hence, find
+
+(i) the HCF of 504 and 108,
+
+(ii) the LCM of 504 and 108,
+
+(iii) the smallest integer $p$ such that $504 p$ is a perfect cube,
+
+(iv) the smallest integer $n$ such that $108 n$ is a multiple of 504.	
