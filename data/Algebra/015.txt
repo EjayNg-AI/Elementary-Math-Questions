@@ -1,0 +1,33 @@
+Factorize the following expressions completely:
+
+(a) $2 a^3-18 a$
+
+(b) $2 p^2-3 p q-5 q^2$
+
+(c) $4 \pi r^2+2 \pi r$
+
+(d) $a+b-a c-b c$
+
+(e) $6 c^2-32 c+32$
+
+(f) $4(a-5)-(a+5)(a-5)$
+
+(g) $48 p^2-3$
+
+(h) $x^2-(y+8)^2$
+
+(i) $(x-2 y)^2+(x-2 y)(x+5 z)$
+
+(j) $1-16 y^4$
+
+(k) $2 a^3 b-6 a b^3$
+
+(l) $5 x^2+5 y^2-10 x y-45$
+
+(m) $(3 p+q)(2 x-3 y)-(3 p+q)(x-4 y)$
+
+(n) $(2 a+3)^2-25$
+
+(o) $a^2+2 a b+b^2-c^2$
+
+(p) $x^3+x^2-4 x-4$

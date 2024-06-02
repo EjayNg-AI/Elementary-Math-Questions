@@ -1,4 +1,9 @@
 categories:
   - directory: 01_hcf_and_lcm
     description: Prime Numbers, HCF and LCM
+  - directory: Algebra
+    description: Simultaneous Linear Equations, Expansion, Factorization, Identities
+  - directory: Algebra2
+    description: Solving Equations, Word Problems, Quadratic Graphs, Indices
+
 

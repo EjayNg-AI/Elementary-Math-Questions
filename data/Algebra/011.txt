@@ -1,0 +1,5 @@
+(a) Given that $x^2+y^2=53$ and $xy=14$, find the value of $(2 x+2 y)^2$.
+
+(b) Given that $x^2-y^2=45$ and $x-y=3$, find the value of $(x+y)^2$.
+
+(c) Given that $x+y=19$ and $x-y=17$, find the value of $\frac{1}{2} x^2-\frac{1}{2} y^2$.

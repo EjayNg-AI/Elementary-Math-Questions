@@ -1,0 +1,1 @@
+Given that $\left(m+\frac{1}{m}\right)^2=35$ where $m>0$, find the value of $m^2+\frac{1}{m^2}$.

@@ -1,0 +1,5 @@
+It is given that $x^2+\frac{1}{x^2}=23$ and $x>0$.
+
+(a) Find the value of $x+\frac{1}{x}$.
+
+(b) Show that $\left(x-\frac{1}{x}\right)^2=21$.
