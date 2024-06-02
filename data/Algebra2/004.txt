@@ -1,0 +1,11 @@
+A shopkeeper bought $x$ balloons for $\$ 15$.
+
+(a) Find an expression in terms of $x$, for the cost, in cents, of each balloon.
+
+(b) 5 of the balloons burst. He sold each of the remaining balloons for 15 cents more than he paid for it. Write down an expression, in terms of $x$, for the total sum he received for selling the remaining balloons.
+
+(c) He made a profit of $\$ 7$ from the sale of balloons. Write down an equation to represent this information, and show that it simplifies to $3 x^2-155 x-1500=0$.
+
+(d) Solve the equation $3 x^2-155 x-1500=0$.
+
+(e) Find the selling price of each balloon.

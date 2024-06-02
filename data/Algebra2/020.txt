@@ -1,0 +1,3 @@
+(a) Simplify $5^{3 x+1}-2\left(5^{3 x}\right)$.
+
+(b) Use the result from (a) to solve the equation $5^{3 x+1}-2\left(5^{3 \times}\right)=46875$.

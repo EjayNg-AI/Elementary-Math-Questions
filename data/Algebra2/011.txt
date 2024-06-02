@@ -1,0 +1,11 @@
+The graph of $y=(x+3)(5-x)$ cuts the $x$-axis at $L$ and $M$. It cuts the $y$-axis at $N$. The dotted line is the line of symmetry of the graph. 
+
+\includegraphics[width=0.6\linewidth]{data/Algebra2/011.png}
+
+Find
+
+(a) the coordinates of $L, M$ and $N$,
+
+(b) the equation of the line of symmetry,
+
+(c) the maximum point of the graph.

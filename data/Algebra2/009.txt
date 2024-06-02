@@ -1,0 +1,5 @@
+(a) Express $y=-x^2-5 x+11$ in the form $y=-(x+p)^2+q$.
+
+(b) Write down the equation of the line of symmetry of $y=-x^2-5 x+11$.
+
+(c) Hence, sketch the graph of $y=-x^2-5 x+11$, indicating the coordinates of the turning point and the point where the graph intersects the $y$-axis.

@@ -1,0 +1,10 @@
+$A B C D$ is a trapezium in which $A D$ is parallel to $B C$, $A B=(x+1) \mathrm{cm}$, $B C=(3 x-1) \mathrm{cm}$, $A D=(x+2) \mathrm{cm}$ and $\angle A B C=90^{\circ}$.
+
+(a) Given that the area of trapezium $A B C D$ is $13.5 \mathrm{~cm}^2$, form an equation in $x$ and show that it reduces to $4 x^2+5 x-26=0$.
+
+(b) Solve this equation and find the length of $B C$.
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.6\linewidth]{data/Algebra2/002.png}
+\end{figure}

@@ -1,0 +1,1 @@
+Expression simplifies to $5(7)\left(3^{3 x}\right)$. Hence, it is divisible by 5 because $(7)\left(3^{3 x}\right)$ is an integer for all positive integer values of $x$.

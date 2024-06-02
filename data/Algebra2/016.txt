@@ -1,0 +1,13 @@
+Solve the following equations.
+
+(a) $\sqrt{7} \div 49^x=\frac{1}{7}$
+
+(b) $25^{x-1} \div\left(\frac{1}{5}\right)^{-2}=125^{\frac{1}{2}}$
+
+(c) $4^{x-3} \times 8^{3 x-1}=\sqrt{32}$
+
+(d) $3^4 \times 9^{x(x-4)}=\frac{1}{81}$
+
+(e) $2^{3 x} \times 125^x=0.001$
+
+(f) $21^{2 p}=3^q \times 7^2$

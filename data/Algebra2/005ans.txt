@@ -1,0 +1,3 @@
+(a) $\left(\frac{56}{x}\right)$ min, (b) $\left(\frac{56}{x+1.5}\right)$ min
+
+(d) $x=3.894$ or $x=-5.394$, (e) 14min 23sec

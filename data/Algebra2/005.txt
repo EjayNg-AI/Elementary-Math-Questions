@@ -1,0 +1,11 @@
+A storage tank holds 56 litres of water. Water is dispensed either through Tap $A$ or Tap $B$.
+
+(a) Water flows out from Tap $A$ at $x$ litres per minute. Write down an expression, in terms of $x$, for the number of minutes it takes to empty the tank using Tap $A$.
+
+(b) 1.5 litres more water flows out from Tap $B$ than Tap $A$ in a minute. Write down an expression, in terms of $x$, for the number of minutes it takes to empty the tank using Tap $B$.
+
+(c) Tap $A$ takes 4 minutes longer to empty the tank than Tap $B$. Write down an equation in $x$, and show that it simplifies to $2 x^2+3 x-42=0$.
+
+(d) Solve the equation $2 x^2+3 x-42=0$, giving the answers correct to 3 decimal places.
+
+(e) Find the time taken, in minutes and seconds, correct to the nearest second, to empty the tank using Tap $A$.

@@ -1,0 +1,5 @@
+(a) $L=(-3,0)$, $M=(5,0)$, $N=(0,15)$
+
+(b) The equation of the line of symmetry is $x=1$.
+
+(c) The coordinates of the maximum point are $(1,16)$

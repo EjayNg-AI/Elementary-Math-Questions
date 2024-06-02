@@ -1,0 +1,15 @@
+A piece of wire of length $80 \mathrm{~cm}$ is cut into two parts. One part, $4 x \mathrm{~cm}$ long, is bent to form a square and the other part is bent into a circle.
+
+(a) Write an expression for
+
+(i) the length of the part that is bent into a circle,
+
+(ii) the area of the square formed,
+
+(iii) the area of the circle formed.
+
+(b) If the area of the square is equal to the area of the circle,
+
+(i) form an equation in $x$ and show that it reduces to $(\pi-4) x^2+160 x-1600=0$,
+
+(ii) solve for $x$, giving your answer correct to 2 decimal places.

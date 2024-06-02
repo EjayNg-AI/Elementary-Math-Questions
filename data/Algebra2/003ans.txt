@@ -1,0 +1,3 @@
+(a) $=\frac{58}{x} \mathrm{~h}$, (b) $\frac{58}{x+3} h$
+
+(d) $x=9.374$ or $x=-12.374$, $4 \mathbf{h} \mathbf{4 1} \mathrm{min}$ (correct to nearest min)

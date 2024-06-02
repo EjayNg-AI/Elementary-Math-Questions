@@ -1,0 +1,11 @@
+The curve $y=x(4-x)$ cuts the $x$-axis at the origin and at $R$.
+
+\includegraphics[width=0.6\linewidth]{data/Algebra2/012.png}
+
+(a) Write down the coordinates of $R$.
+
+(b) Given that the point $P(-1, k)$ lies on the curve, find the value of $k$.
+
+(c) Find the equation of the line of symmetry of the curve. Hence write down the coordinates of the maximum point $M$.
+
+(d) The line $y=m x$ cuts the curve at the origin and at point $Q(3, p)$. Find the value of $p$ and of $m$.

@@ -1,0 +1,13 @@
+The diagram shows the line $O Q$, and the graphs of $y=x+2$ and $y=a x^2$. The line $y=x+2$ intersects the curve $y=a x^2$ at $P(4, p)$. $Q$ is a point on the curve vertically above point $R$ such that the line segment $P Q$ is parallel to the $x$-axis. $S$ is the point of intersection of the two lines.
+
+\includegraphics[width=0.6\linewidth]{data/Algebra2/014.png}
+
+(a) Find the value of $p$.
+
+(b) Show that $a=\frac{3}{8}$.
+
+(c) Find the equation of $O Q$.
+
+(d) Find the coordinates of $S$.
+
+(e) Given that $T$ is a point on $Q R$ such that triangles $P Q T$ and $P R T$ have the same area, find the equation of $P T$.

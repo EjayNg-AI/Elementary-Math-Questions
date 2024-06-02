@@ -1,0 +1,3 @@
+(a)(i) $(80-4 x) \mathrm{cm}$, (a)(ii) $x^2 \mathrm{~cm}^2$, (a)(iii) $\frac{(40-2 x)^2}{\pi} \mathrm{cm}^2$
+
+(b)(i) $x^2=\frac{(40-2 x)^2}{\pi}$, (b)(ii) $x=10.60$ or $x= 175.79$

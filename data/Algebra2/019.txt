@@ -1,0 +1,1 @@
+Show that $3^{3 x+2}-99^{\frac{3}{2}} x+(27)^{x+1}$ is divisible by 5 for all positive integer values of $x$.

@@ -1,0 +1,1 @@
+Show that $16^{2022}-16^{2020}$ is divisible by 5. Hence find the largest prime factor of $16^{2022}-16^{2020}$.

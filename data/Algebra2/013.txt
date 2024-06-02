@@ -1,0 +1,11 @@
+The diagram shows the curve $y=x^2+a x+b$ and the line $y=m x+c$ which intersect at $A$ on the $y$-axis and at $D$. The curve intersects the $x$-axis at $B(-3,0)$ and $C(5,0)$. The coordinates of $D$ are $(6, k)$.
+
+\includegraphics[width=0.6\linewidth]{data/Algebra2/013.png}
+
+(a) Find the value of $a$ and of $b$.
+
+(b) Find the value of $k$.
+
+(c) Find the equation of the line $A D$.
+
+(d) Find the coordinates of $E$ such that $A B C E$ is a parallelogram.

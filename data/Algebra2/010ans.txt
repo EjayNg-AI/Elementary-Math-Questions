@@ -1,0 +1,5 @@
+(a) $y=\frac{1}{2}\left(x-3 \frac{1}{2}\right)^2-8 \frac{1}{8}$
+
+(b) The graph is as follows:
+
+\includegraphics[width=0.6\linewidth]{data/Algebra2/010.png}

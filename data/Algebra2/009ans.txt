@@ -1,0 +1,7 @@
+(a) $y=-\left(x+2 \frac{1}{2}\right)^2+17 \frac{1}{4}$
+
+(b) Equation of the line of symmetry: $x=-2 \frac{1}{2}$
+
+(c) The graph is as follows:
+
+\includegraphics[width=0.6\linewidth]{data/Algebra2/009.png}

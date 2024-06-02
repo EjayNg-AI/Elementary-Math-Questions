@@ -1,0 +1,11 @@
+A cylindrical water dispenser, with uniform cross section, has a capacity of 30 litres.
+
+(i) Water from Tap A fills the empty dispenser at a constant rate of $x$ litres per second. Write down, in terms of $x$, the time taken by Tap $A$ to fill up the empty water dispenser.
+
+(ii) Water from Tap $B$ fills the same dispenser at a constant rate of $(x+2)$ litres per second. Write down, in terms of $x$, the time taken by Tap $B$ to fill up the empty water dispenser.
+
+(iii) Tap $B$ takes 25 seconds less than Tap $A$ to fill up the empty dispenser. W rite down an equation in $x$ and show that it can be simplified to $5 x^2+10 x-12=0$.
+
+(iv) Solve the equation $5 x^2+10 x-12=0$.
+
+(v) Hence find the amount of time taken by Tap $A$ to fill up the water dispenser.

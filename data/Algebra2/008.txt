@@ -1,0 +1,13 @@
+A fruit seller bought $x$ watermelons for $\$ 54$.
+
+(a) Find an expression, in terms of $x$, for the cost, in dollars, of each watermelon.
+
+(b) He plans to sell each watermelon at $\$ 3$ more than its cost price. Write down an expression, in terms of $x$, for the selling price of each watermelon.
+
+(c) He found that 2 watermelons were rotten and had to throw them away. He sold the remaining watermelons and made a profit of $\$ 21$.
+
+(c)(i) Write down an equation in $x$ to represent this information and show that it reduces to $x^2-9 x-36=0$.
+
+(c)(ii) Solve the equation $x^2-9 x-36=0$.
+
+(d) Find the selling price of each watermelon.

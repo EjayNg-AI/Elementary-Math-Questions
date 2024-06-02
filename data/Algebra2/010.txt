@@ -1,0 +1,3 @@
+(a) Express $\frac{1}{2} x^2-\frac{7}{2} x-2$ in the form $a(x-h)^2+k$.
+
+(b) Hence, sketch the graph of $y=\frac{1}{2} x^2-\frac{7}{2} x-2$, indicating the coordinates of the turning point and the point where the graph intersects the $y$-axis.
