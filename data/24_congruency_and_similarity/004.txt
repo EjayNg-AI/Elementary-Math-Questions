@@ -1,0 +1,9 @@
+In the diagram, $A B C D$ is a trapezium. The point $X$ lies on $C D$ such that $C D=3 X D \cdot B X$ produced meets $A D$ produced at $Y$.
+
+(a) Show that triangles $X Y D$ and $X B C$ are similar.
+
+(b) Show that $B C=2 Y D$.
+
+(c) Calculate the numerical value of area of $\triangle X B C$ area of $\triangle X Y D$ and $\frac{\text { area of } \triangle C D Y}{\text { area of } \triangle C B Y}$.
+
+\includegraphics[width=0.4\linewidth]{data/24_congruency_and_similarity/004.png}

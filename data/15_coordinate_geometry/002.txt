@@ -1,0 +1,14 @@
+The coordinates of $P, Q, R$ and $S$ are $(9,9),(m, 6),(3,0)$ and $(1,8)$ respectively.
+
+(a) Find the length of $P R$.
+
+(b) Find the value of $m$.
+
+(c) Find the equation of $R S$.
+
+(d) The equation of the line $P T$ is $7 y=5 x+18$. Find the coordinates of $Z$ which is the point of intersection of $P T$ and $R S$.
+
+(e) Find the coordinates of $T$.
+
+\includegraphics[width=0.6\linewidth]{data/15_coordinate_geometry/002.png}
+

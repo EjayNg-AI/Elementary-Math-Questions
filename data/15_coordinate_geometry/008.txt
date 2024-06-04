@@ -1,0 +1,13 @@
+The diagram shows a triangle with vertices $A(1,-2), B(4,-1)$ and $C(4,4)$. Find
+
+(a) the equation of line $A C$,
+
+(b) the value of $k$, given that $(k, k+1)$ lies on line $A C$,
+
+(c) the area of $\triangle A B C$,
+
+(d) $\angle A C B$,
+
+(e) the coordinates of point $D$ such that the area of trapezium $A B C D$ is 12 units $^2$.
+
+\includegraphics[width=0.4\linewidth]{data/15_coordinate_geometry/008.png}

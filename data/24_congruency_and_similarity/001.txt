@@ -1,0 +1,9 @@
+In the diagram, $A B$ is parallel to $C D$ and $A D$ is parallel to $Y Z$. $A X=Y Z$ and $B C=3 B X$.
+
+(a) Show that triangles $A X B$ and $D X C$ are similar.
+
+(b) Name two triangles that are congruent.
+
+(c) Find the numerical value of $\frac{A B}{D C}$ and $\frac{\text { area of } \triangle A X B}{\text { area of } \triangle D X C}$.
+
+\includegraphics[width=0.4\linewidth]{data/24_congruency_and_similarity/001.png}

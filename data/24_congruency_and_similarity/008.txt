@@ -1,0 +1,3 @@
+In the diagram, $A B=A C, A X=A Y$ and $\angle B A C=\angle X A Y$. Prove that $\triangle A B X$ and $\triangle A C Y$ are congruent.
+
+\includegraphics[width=0.4\linewidth]{data/24_congruency_and_similarity/008.png}

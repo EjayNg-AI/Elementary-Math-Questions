@@ -1,0 +1,11 @@
+The line $L_1$, with equation $3 x+4 y-4=0$, cuts the $y$-axis at $P$. The line $L_2$ cuts the $y$-axis at $Q(0,-4)$. Lines $L_1$ and $L_2$ intersect at the point $R(r, 4)$.
+
+(a) State the equation of the line passing through $Q$ and is parallel to the $x$-axis.
+
+(b) Find the equation of the line $L_2$.
+
+(c) Express, as a fraction in its simplest form, the value of $\tan \angle R Q P$ and $\cos \angle R P Q$.
+
+(d) A trapezium $P Q R S$, with $P Q$ parallel to $S R$, has an area of 16 units $^2$. Find the coordinates of $S$.
+
+\includegraphics[width=0.4\linewidth]{data/15_coordinate_geometry/009.png}

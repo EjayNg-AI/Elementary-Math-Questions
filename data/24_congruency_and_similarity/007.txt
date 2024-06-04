@@ -1,0 +1,7 @@
+In the diagram, $A P Q R$ is a rectangle and $A B C D$ is a square. $B P Q$ and $Q D R$ are straight lines.
+
+(a) Show that triangle $A B P$ is congruent to triangle $A D R$.
+
+(b) Show that $A P Q R$ is a square.
+
+\includegraphics[width=0.4\linewidth]{data/24_congruency_and_similarity/007.png}

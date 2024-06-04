@@ -1,0 +1,18 @@
+The straight line $l_1: 2 x+2 y-10=0$ cuts the $x$-axis at $A$ and the $y$-axis $B$.
+
+(a) Find the coordinates of $A$ and $B$.
+
+(b) Find the length of $A B$.
+
+(c) Find the area of triangle $O A B$.
+
+(d) Find the perpendicular distance from $O$ to $A B$.
+
+(e) Find the equation of another line $l_2$ which passes through the origin and is parallel to the line $l_1$.
+
+(f) A third line, $l_3$ parallel to the $x$-axis cuts $l_1$ at the point $(k, 2)$. Find the value of $k$.
+
+(g) Find the area bound by $l_1, l_3$, the $x$-axis and the $y$-axis.
+
+\includegraphics[width=0.4\linewidth]{data/15_coordinate_geometry/004.png}
+

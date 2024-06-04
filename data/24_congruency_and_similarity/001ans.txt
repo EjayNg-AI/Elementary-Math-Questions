@@ -1,0 +1,3 @@
+(b) $\triangle A B X \equiv \triangle Z C Y$
+
+(c) $\frac{A B}{D C} =\frac{B X}{C X} =\frac{1}{\mathbf{2}}$, $\frac{\text { Area of } \triangle D X B}{\text { Area of } \triangle D X C} = \left(\frac{B X}{C X}\right)^2 = \left(\frac{1}{2}\right)^2 = \frac{1}{4}$

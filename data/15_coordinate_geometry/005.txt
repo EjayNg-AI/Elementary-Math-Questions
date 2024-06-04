@@ -1,0 +1,14 @@
+The line $A B$ is parallel to the $y$-axis and the gradient of $O A$ is the same as the gradient of $C B$. Given that the equation of $B C$ is $3 y=4 x+24$ and $A$ is the point $(6, k)$, find the
+
+a) value of $k$,
+
+b) coordinates of $B$,
+
+c) coordinates of $P$,
+
+d) values of $h$ if $C$ is the point $(h,-4)$,
+
+e) equation of $A P$.
+
+\includegraphics[width=0.4\linewidth]{data/15_coordinate_geometry/005.png}
+

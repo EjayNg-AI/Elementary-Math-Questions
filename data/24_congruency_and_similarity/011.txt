@@ -1,0 +1,7 @@
+The diagram shows a solid cone $W$ which is cut into 3 parts of equal thickness, $X$, $Y$ and $Z$
+
+(a) Find the value of $\frac{\text { volume of } X}{\text { volume of } W}$ and $\frac{\text { volume of } X}{\text { volume of } Z}$.
+
+(b) If the mass of $X$ is $250 \mathrm{~g}$, find the mass of $Y$.
+
+\includegraphics[width=0.6\linewidth]{data/24_congruency_and_similarity/011.png}

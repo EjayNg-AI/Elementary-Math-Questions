@@ -1,0 +1,16 @@
+The graph shows two straight lines $L_1$ and $L_2$. The line $L_1$ cuts the $x$-axis at $A$ and the $y$-axis at $B$. The line $L_2$ is a vertical line and it cuts the $x$-axis at $P$ and the line $L_1$ at $Q$.
+
+(a) Find the equation of $L_1$.
+
+(b) Find the equation of $L_2$ given that the coordinates of $P$ is $(2,0)$.
+
+(c) Find the coordinates of $Q$.
+
+(d) Calculate the area of triangle $O B Q$.
+
+(e) Find the length of $B Q$.
+
+(f) Calculate the shortest distance from $O$ to $B Q$, where $O$ is the origin.
+
+\includegraphics[width=0.4\linewidth]{data/15_coordinate_geometry/001.png}
+

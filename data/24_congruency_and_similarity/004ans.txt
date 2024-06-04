@@ -1,0 +1,1 @@
+(c) $\frac{\text { Area of } \triangle X B C}{\text { Area of } \triangle X Y D} = 4$, $\frac{\text { Area of } \triangle C D Y}{\text { Area of } \triangle C B Y} = \frac{1}{2}$

@@ -1,0 +1,14 @@
+In the diagram, the point $A(3,5), B(-2,-7)$ and $C(-2,-2)$ are shown. Find
+
+a. the equation of the line $A C$,
+
+b. the area of $\triangle A B C$,
+
+c. the exact perpendicular distance from $C$ to $A B$,
+
+d. the possible values of $k$ given that the point $D(k, 1)$ forms a triangle $B C D$ with area of 10 units $^2$
+
+e. $\sin \angle A B C$
+
+\includegraphics[width=0.4\linewidth]{data/15_coordinate_geometry/006.png}
+

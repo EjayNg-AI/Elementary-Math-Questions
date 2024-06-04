@@ -1,0 +1,7 @@
+In the diagram, $A B, C D$ and $E F$ are parallel. $A C F, B C E$ and $B D F$ are straight lines. $B D=10 \mathrm{~cm}, D F=5 \mathrm{~cm}$ and $E F=12 \frac{1}{2} \mathrm{~cm}$.
+
+(a) Find the length of $C D$ and $A B$.
+
+(b) Find the numerical value of $\frac{\text { area of } \triangle C E F}{\text { area of } \triangle C B A}$ and $\frac{\text { area of } \triangle C E F}{\text { area of } \triangle C F D}$.
+
+\includegraphics[width=0.6\linewidth]{data/24_congruency_and_similarity/003.png}

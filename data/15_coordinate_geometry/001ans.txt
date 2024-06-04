@@ -1,0 +1,1 @@
+(a) Equation of $l_1$: $y=\frac{1}{2} x-4$, (b) Equation of $l_2$: $x=2$, (c) $Q=(2,-3)$, (d) $4 \text { units }^2$, (e) $2.24 \text { units (3 sig. fig.) }$

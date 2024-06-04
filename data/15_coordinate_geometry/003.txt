@@ -1,0 +1,16 @@
+The coordinates of $Q, R$ and $T$ are $(10,3)$ and $(k, 6)$ and $(0,-6)$ respectively. $S$ lies on the $x$-axis. $P$ and $T$ lie on the $y$-axis. The equation of the line $P Q$ is $y=-\frac{1}{2} x+8$.
+
+(a) Find the value of $k$.
+
+(b) Find the equation of $R T$.
+
+(c) Find the equation of the line through $Q$ and parallel to $R T$.
+
+(d) Find the coordinates of $S$.
+
+(e) Find the area of triangle $P S T$.
+
+(f) Find the coordinates of $U$ such that $P Q U T$ is a parallelogram.
+
+\includegraphics[width=0.4\linewidth]{data/15_coordinate_geometry/003.png}
+

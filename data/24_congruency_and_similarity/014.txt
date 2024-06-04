@@ -1,0 +1,9 @@
+A piece of solid cone is cut into a smaller piece of cone and a frustum as shown in the diagram. Given that the height of the frustum is $8 \mathrm{~mm}$ and the two circular base areas are $9 \mathrm{~mm}^2$ and $25 \mathrm{~mm}^2$ respectively,
+
+(a) Show that the height of the smaller cone is $12 \mathrm{~mm}$.
+
+(b) Find the volume of the frustum.
+
+(c) Find the curved surface area of the smaller cone.
+
+\includegraphics[width=0.6\linewidth]{data/24_congruency_and_similarity/014.png}

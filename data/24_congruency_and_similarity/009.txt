@@ -1,0 +1,7 @@
+In the figure, $A B C D$ is a square, $P$ is a point on $A B$ and $Q$ is a point on $A D$ produced such that $\angle B C P=28^{\circ}$ and $\angle P C Q=90^{\circ}$.
+
+(a) Prove that $\triangle P B C$ is congruent to $\triangle Q D C$.
+
+(b) Find $\angle A Q P$.
+
+\includegraphics[width=0.4\linewidth]{data/24_congruency_and_similarity/009.png}

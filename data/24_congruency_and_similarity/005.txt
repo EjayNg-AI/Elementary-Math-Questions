@@ -1,0 +1,7 @@
+In the diagram, $A E=B F$ and $\angle A E D=\angle A G F=\angle B C F=\angle B F D=90^{\circ}$.
+
+(a) Prove that $\triangle A D E$ is congruent to $\triangle B D F$.
+
+(b) Find the length of $C D$.
+
+\includegraphics[width=0.6\linewidth]{data/24_congruency_and_similarity/005.png}

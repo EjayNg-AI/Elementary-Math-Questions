@@ -1,0 +1,11 @@
+In the diagram, $M N$ is parallel to $B C . A M=9 \mathrm{~cm}, M B=6 \mathrm{~cm}$ and $A C=13 \mathrm{~cm}$.
+
+(a) Name a triangle that is similar to $\triangle A M N$.
+
+(b) Calculate the length of $A N$.
+
+(c) Find the numerical value of $\frac{\text { area of } \triangle A M N}{\text { area of } \triangle A B C}$.
+
+(d) Given that the area of $\triangle A B C$ is $60.75 \mathrm{~cm}^2$, calculate the area of the trapezium $M B C N$.
+
+\includegraphics[width=0.4\linewidth]{data/24_congruency_and_similarity/002.png}

@@ -1,0 +1,11 @@
+Find the value of
+
+(a) $\frac{\text { area of } \triangle N L M}{\text { area of Trapezium } Q P M N}$
+
+(b) $\frac{Q M}{R Q}$
+
+(c) $\frac{\text { area of } \triangle Q P M}{\text { area of } \triangle R Q L}$
+
+(d) $\frac{\text { area of } \triangle Q M N}{\text { area of } \triangle Q L P}$
+
+\includegraphics[width=0.6\linewidth]{data/24_congruency_and_similarity/010.png}

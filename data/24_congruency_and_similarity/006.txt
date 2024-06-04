@@ -1,0 +1,3 @@
+In the diagram, $A B C D$ and $A P Q R$ are squares. Show that $\triangle A B R$ and $\triangle A D P$ are congruent.
+
+\includegraphics[width=0.4\linewidth]{data/24_congruency_and_similarity/006.png}

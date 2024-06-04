@@ -1,0 +1,7 @@
+Two bottles of cooking oil are geometrically similar. Their heights are $18 \mathrm{~cm}$ and $24 \mathrm{~cm}$ respectively.
+
+(a) Find the ratio of the circumference of the base of the smaller bottle to the circumference of the base of the larger bottle.
+
+(b) Given that the surface area of the smaller bottle is $855 \mathrm{~cm}^2$, find the surface area of larger bottle.
+
+(c) If the cost of the smaller bottle of cooking oil is $\$ 6.75$ and the bigger bottle is $\$ 14.80$, which bottle of cooking oil is a better buy?

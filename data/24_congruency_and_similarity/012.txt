@@ -1,0 +1,7 @@
+(a) Cylinder $P$ has a volume of $600 \mathrm{~cm}^3$.
+
+(a)(i) Calculate the volume of Cylinder $Q$ with a height twice that of $P$ and radius one quarter of $P$.
+
+(a)(ii) Calculate the volume of Cylinder $R$ which is similar to Cylinder $Q$ but has a radius which is thrice that of $Q$.
+
+(b) Anne painted the outer surface areas of two similar cylindrical containers. The ratio of the outer surface areas of the containers is 1 :9. If the larger container can hold 2430 marbles, how many marbles can be smaller container hold?

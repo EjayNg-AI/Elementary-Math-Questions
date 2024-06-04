@@ -1,0 +1,11 @@
+$A B C$ is a triangle in which $B C=7$ units, $A$ is the point $(-2, k)$ and $C$ is the point $(-5,0)$.
+
+(a) Write down the coordinates of $B$.
+
+(b) Given that the length of $A C$ is 5 units, find the value of $k$.
+
+(c) Find the equation of the line $A B$.
+
+(d) A point $D$ is such that $A D$ is parallel to the $x$-axis and $A, B, C$ and $D$ forms a trapezium of area 18 units $^2$. Find the possible coordinates of $D$.
+
+\includegraphics[width=0.4\linewidth]{data/15_coordinate_geometry/007.png}

@@ -1,0 +1,3 @@
+(a) $CD= 8 \frac{1}{3} \mathrm{~cm}$, $AB = 25 \mathrm{~cm}$
+
+(b) $\frac{\text { Area of } \triangle C E F}{\text { Area of } \triangle C B A} = \frac{1}{4}$, $\frac{\text { Area of } \triangle C E F}{\text { Area of } \triangle C F D} = \frac{3}{2}$

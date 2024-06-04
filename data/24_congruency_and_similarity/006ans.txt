@@ -1,0 +1,3 @@
+To show $\triangle A B R \equiv \triangle A D P$
+
+$\begin{aligned} & A R=A P \text { (Sides of square } A P Q R \text { ) } \\ & A B=A D \text { (Sides of square } A B C D \text { ) } \\ & \angle B A D=\angle P A R=90^{\circ}(\angle \mathrm{s} \text { of square) } \\ & \angle B A D+\angle D A R=\angle P A R+\angle D A R \\ & \therefore \angle B A R=\angle D A P \\ & \therefore \triangle A B R \equiv \triangle A D P \text { (SAS Rule) }\end{aligned}$
