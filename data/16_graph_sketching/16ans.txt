@@ -1,0 +1,5 @@
+(a) A: 40 min, B: 20 min
+
+(b) The sketch of $h$ against time for each container:
+
+\includegraphics[width=0.6\linewidth]{data/16_graph_sketching/16A.png}

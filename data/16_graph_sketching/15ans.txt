@@ -1,0 +1,7 @@
+(a) Capacity of water dispenser: $504 \pi \mathrm{cm}^3$
+
+(b) Ratio of volumes of cone : cylinder : hemisphere is $1:4:2$.
+
+Times taken to fill the cone, the cylinder and the hemisphere are 2 mins, 8 mins and 4 mins respectively.
+
+\includegraphics[width=0.6\linewidth]{data/16_graph_sketching/15A.png}

@@ -1,0 +1,3 @@
+The diagram shows an empty container which is made up of two sections. The volumes of the two sections of the container are in the ratio $1: 3$. Water is poured into the empty container at a constant rate and fills it in 8 minutes. Sketch a graph showing how the depth of the water, $d \mathrm{~cm}$, in the container varies over the 8 minutes.
+
+\includegraphics[width=0.4\linewidth]{data/16_graph_sketching/18.png}

@@ -1,0 +1,7 @@
+The diagram shows a container in the shape of a cone. The height of the container is $h \mathrm{~cm}$. It takes 36 seconds to fill the container to its brim at a constant rate.
+
+(a) Find the time taken to fill to half its height.
+
+(b) Sketch the graph to show the relationship between the depth of water, $h \mathrm{~cm}$ and the time $t$ seconds, as the container is filled.
+
+\includegraphics[width=0.4\linewidth]{data/16_graph_sketching/19.png}

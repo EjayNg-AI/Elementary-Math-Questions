@@ -1,0 +1,7 @@
+The containers shown in the diagrams has height $h \mathrm{~cm}$. Their other dimensions are as shown. The containers are being filled to the brim with water which flows into each one at the same constant rate. It takes 5 minutes for the water to reach a depth of $\frac{h}{2} \mathrm{~cm}$ in container $A$.
+
+(a) Find the time taken for the water to reach the brim of container $A$ and container $B$.
+
+(b) Sketch a graph showing how the depth of the water in each container varies with time.
+
+\includegraphics[width=0.8\linewidth]{data/16_graph_sketching/16.png}

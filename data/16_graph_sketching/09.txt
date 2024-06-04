@@ -1,0 +1,1 @@
+The graphs of $y=\frac{1}{2} x^2(3-x)$ and $2 x-y=1$ were drawn on the same axes. The $x$-coordinates of the points of intersection of the two graph satisfies the equation $x^3+A x^2+B x+C=0$. Find the values of $A, B$ and $C$.

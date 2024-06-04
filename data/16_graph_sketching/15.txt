@@ -1,0 +1,7 @@
+A water dispenser, as shown in the diagram, is initially empty. There is an opening at the top of the dispenser and water is poured through the opening at a constant rate. It takes 14 minutes for the dispenser to be completely filled with water.
+
+(a) Find in terms of $\pi$, the capacity of the water dispenser in $\mathrm{cm}^3$.
+
+(b) Sketch a graph showing how the depth of the water, $h \mathrm{~cm}$, in the dispenser varies over the 14 minutes.
+
+\includegraphics[width=0.4\linewidth]{data/16_graph_sketching/15.png}

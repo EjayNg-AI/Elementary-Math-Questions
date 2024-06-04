@@ -1,0 +1,1 @@
+The graphs of $y=\frac{x^2}{5}+\frac{5}{x}$ and $y=\frac{1}{2} x+3$ were drawn on the same axes. The $x$-coordinates of the points of intersection of the two graph satisfies the equation $2 x^3+a x^2+b x+c=0$. Find the values of $a$, $b$ and $c$.

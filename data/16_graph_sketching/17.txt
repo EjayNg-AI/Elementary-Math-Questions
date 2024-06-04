@@ -1,0 +1,3 @@
+Water is poured at a constant rate into the 2 containers of the same volume, $A$ and $B$ until they are completely full. Given that the two containers are filled up completely full at the same time, sketch on the same diagram the height of water in the 2 containers against time as they are being filled.
+
+\includegraphics[width=0.8\linewidth]{data/16_graph_sketching/17.png}

@@ -1,0 +1,7 @@
+The curve $y=x^2+p x+18$ is symmetrical about the line $x=4$. The points $A(m, n)$ and $B(7, n)$ lie on the curve.
+
+(a) Find the value(s) of $m$, $p$ and $n$.
+
+(b) Find the coordinates of the minimum point.
+
+\includegraphics[width=0.4\linewidth]{data/16_graph_sketching/11.png}

@@ -1,0 +1,11 @@
+The diagram shows the graph of a quadratic equation $y=x^2+4 x+k$ where $k$ is a constant. Find
+
+(a) the equation of the line of symmetry,
+
+(b) the value of $k$,
+
+(c) the coordinates of the points where the line $y=-12$ cuts the graph $y=x^2+4 x+k$,
+
+(d) the value of $h$ such that $x^2+4 x+k=h$ has only 1 solution.
+
+\includegraphics[width=0.4\linewidth]{data/16_graph_sketching/12.png}

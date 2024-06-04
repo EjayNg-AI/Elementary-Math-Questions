@@ -1,0 +1,3 @@
+The diagram shows the sketch of the graph of $y=k a^x$. Find the values of $k$ and $a$.
+
+\includegraphics[width=0.4\linewidth]{data/16_graph_sketching/01.png}

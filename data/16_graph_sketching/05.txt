@@ -1,0 +1,7 @@
+Given that the graph of $y=x^2-2 x-3$ has been drawn. Determine the equation of the straight line graph that has to be drawn to solve the equations,
+
+a) $x^2-2 x-3=0$
+
+b) $x^2-2 x-1=0$
+
+c) $2 x^2-5 x-10=0$

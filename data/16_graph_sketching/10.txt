@@ -1,0 +1,9 @@
+The diagram shows a quadratic curve which cuts the $x$-axis at the points $A(5,0)$ and $B(8,0)$, and the $y$-axis at the point $C(0,-40)$.
+
+(a) Show that the equation of the curve is $y=13 x-x^2-40$.
+
+(b) Write down the equation of the line of symmetry of the curve.
+
+(c) Find the coordinates of the point $D$, where $x>8$, on the curve such that it is equidistant from the positive $x$ - and the negative $y$-axes.
+
+\includegraphics[width=0.4\linewidth]{data/16_graph_sketching/10.png}

@@ -1,0 +1,15 @@
+The diagram not drawn to scale, shows a quadratic curve and a line, $l_l$. The curve cuts the axes at points $P(-4,0), Q(2,0)$ and $R(0,24)$.
+
+A point $A$ lies on the $x$-axis such that $Q A=\frac{2}{3} P Q$.
+
+(a) Find the equation of the curve.
+
+(b) Write down the coordinates of the maximum point of the curve.
+
+(c) State the coordinates of $A$.
+
+(d) Find the equation of line $l_2$ which has the same gradient as $l_1$ that passes through $A$.
+
+(e) Find the value of $\cos \angle R A P$, giving your answer as a fraction.
+
+\includegraphics[width=0.4\linewidth]{data/16_graph_sketching/13.png}

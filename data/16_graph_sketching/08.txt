@@ -1,0 +1,5 @@
+Given that the graph of $y=\frac{8}{x+1}$ has been drawn. Determine the equation of the straight line|graph that has to be drawn to solve the equations,
+
+(a) $3(x+1)=4$
+
+(b) $x+1=\frac{4}{x}$

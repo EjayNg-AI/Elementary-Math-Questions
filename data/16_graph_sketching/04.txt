@@ -1,0 +1,9 @@
+The diagram shows the graph of $y=x(x-1)(x-3)$ and the line $y=2 x-4$. The curve cuts the $x$-axis at the points $A, B$ and $C$.
+
+(a) Write down the coordinates of $A, B$ and $C$.
+
+(b) The point $(5, p)$ lies on the curve. Find the value of $p$.
+
+(c) Write down and simplify the cubic equation which is satisfied by the values of $x$ at the points where the two graphs meet.
+
+\includegraphics[width=0.4\linewidth]{data/16_graph_sketching/04.png}

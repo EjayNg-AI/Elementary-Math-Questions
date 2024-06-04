@@ -1,0 +1,7 @@
+The diagram below shows the graph of $y=\frac{k}{x}$ for $x>0$.
+
+(a) Given that the graph of $y=\frac{k}{x}$ passes through the point $(1,1)$, find the value of $k$.
+
+(b) On the same diagram, sketch the graph of $y=\frac{2}{x}$ for $x>0$.
+
+\includegraphics[width=0.4\linewidth]{data/16_graph_sketching/02.png}

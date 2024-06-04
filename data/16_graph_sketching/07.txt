@@ -1,0 +1,7 @@
+Given that the graph of $y=\frac{x^2}{6}+\frac{12}{x}-6$ has been drawn. Determine the equation of the straight line graph that has to be drawn to solve the equations,
+
+(a) $\frac{x^2}{6}+\frac{12}{x}=7$
+
+(b) $\frac{x^2}{6}+\frac{12}{x}-3=2 x+5$
+
+(c) $x^3+72-36 x=6 x^2+6 x$

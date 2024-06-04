@@ -1,0 +1,5 @@
+(a) Time taken to fill to half its height $=4.5 \mathrm{~s}$
+
+(b) The sketch of depth of water in the container against time:
+
+\includegraphics[width=0.6\linewidth]{data/16_graph_sketching/19A.png}

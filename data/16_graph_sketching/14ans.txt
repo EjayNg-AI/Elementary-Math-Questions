@@ -1,0 +1,3 @@
+The graphs of $d$ against $t$:
+
+\includegraphics[width=0.8\linewidth]{data/16_graph_sketching/14A.png}

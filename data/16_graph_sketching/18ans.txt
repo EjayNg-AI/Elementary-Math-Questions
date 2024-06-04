@@ -1,0 +1,3 @@
+The sketch of height of water in the container against time:
+
+\includegraphics[width=0.6\linewidth]{data/16_graph_sketching/18A.png}
