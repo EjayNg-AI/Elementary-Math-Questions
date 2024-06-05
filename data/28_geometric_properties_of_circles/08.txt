@@ -1,0 +1,11 @@
+In the diagram, $A$ and $B$ lie on the circle, centre $O$. TA and $T B$ are tangents to the circle. $O B=8 \mathrm{~cm}$ and $O T=24 \mathrm{~cm}$.
+
+(a) Find $\angle O B T$, giving a reason for your answer.
+
+(b) Show that $\angle O T B=19.5^{\circ}$, correct to 1 decimal place.
+
+(c) Find $B T$.
+
+(d) Find $A B$.
+
+\includegraphics[width=0.6\linewidth]{data/28_geometric_properties_of_circles/08.png}

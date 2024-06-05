@@ -1,0 +1,11 @@
+In the diagram, $O$ is the centre of circle $A B C . T P$ and $T Q$ are tangents to the circle. $P T$ is parallel to $B O$ and $\angle O B C=29^{\circ}$. Calculate
+
+(a) $\angle B O C$,
+
+(b) $\angle A O C$,
+
+(c) $\angle A T C$,
+
+(d) $\angle B C Q$.
+
+\includegraphics[width=0.6\linewidth]{data/28_geometric_properties_of_circles/07.png}

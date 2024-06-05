@@ -1,0 +1,17 @@
+In the diagram, $A B$ is a diameter of the circle $O . R A$ and $B Q$ are produced to meet at $P, B R S$ and $Q A S$ are straight lines. Given that $\angle A P Q=35^{\circ}$ and $\angle A B R=22^{\circ}$.
+
+(a) Calculate
+
+(i) $\angle A Q P$,
+
+(ii) $\angle A B Q$,
+
+(iii) $\angle A O R$,
+
+(iv) $\angle B Q R$.
+
+(b) Explain why $P, Q, R$ and $S$ lie on a circle.
+
+(c) State where the centre of the circle $P Q R S$ lies.
+
+\includegraphics[width=0.6\linewidth]{data/28_geometric_properties_of_circles/04.png}

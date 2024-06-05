@@ -1,0 +1,9 @@
+In the diagram, $O$ is the centre of the circle of radius $8 \mathrm{~cm}, Q R=15 \mathrm{~cm}$ and $P O$ produced meets $Q R$ at $M$ such that $Q M=M R$. Find
+
+(a) the length of $O M$,
+
+(b) the length of $P R$,
+
+(c) $\angle Q P R$.
+
+\includegraphics[width=0.6\linewidth]{data/28_geometric_properties_of_circles/11.png}

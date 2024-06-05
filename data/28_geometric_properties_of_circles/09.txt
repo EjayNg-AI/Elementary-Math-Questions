@@ -1,0 +1,13 @@
+$A, B, C, D$ and $E$ are points on the circle, with centre $O$. The diameter of the circle, $B E$, is parallel to $C D$. Angle $O A C=40^{\circ}$ and angle $A C B=35^{\circ}$. $D E F$ is a straight line. Find, giving reasons for each answer,
+
+(a) $\angle O E A$,
+
+(b) reflex $\angle A O B$,
+
+(c) $\angle B A C$,
+
+(d) $\angle F E B$,
+
+(e) $\angle D O E$.
+
+\includegraphics[width=0.6\linewidth]{data/28_geometric_properties_of_circles/09.png}

@@ -1,0 +1,12 @@
+In the diagram, $A, B, C, D$ and $E$ lie on the circle. $B D$ and $C E$ intersect at $G . A B$ is parallel $\mathrm{t}$ $C G E$, and $D E F$ is a straight line. Given that $\angle D C E=38^{\circ}, \angle B A C=103^{\circ}$ and $\angle B E F=86^{\circ}$, find
+
+(a) $\angle B E C$,
+
+(b) $\angle B G C$,
+
+(c) $\angle A B C$,
+
+(d) $\angle A C B$.
+
+\includegraphics[width=0.6\linewidth]{data/28_geometric_properties_of_circles/02.png}
+

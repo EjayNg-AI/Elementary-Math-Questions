@@ -1,0 +1,13 @@
+$O$ is the centre of the circle $A B C D E$ in the diagram. $C F$ is the tangent to the circle at $C$. Given that $\angle O C D=59^{\circ}$ and $\angle A E D=110^{\circ}$, calculate
+
+(a) $\angle C O D$,
+
+(b) $\angle C A D$,
+
+(c) $\angle D C F$,
+
+(d) $\angle O C A$,
+
+(e) $\angle A B C$.
+
+\includegraphics[width=0.6\linewidth]{data/28_geometric_properties_of_circles/06.png}

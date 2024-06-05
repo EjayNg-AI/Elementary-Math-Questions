@@ -1,0 +1,20 @@
+$A T$ is the tangent to the circle at $A . O$ is the centre of the circle and $C B T$ is a straight line. Given that $\angle B A T=42^{\circ}$ and $\angle C D A=80^{\circ}$,
+
+(a) find
+
+(i) $\angle O A B$,
+
+(ii) $\angle A O B$,
+
+(iii) $\angle A C B$,
+
+(iv) $\angle O B C$.
+
+(b) 
+
+(i) Show that triangles $T A B$ and TCA are similar.
+
+(ii) Hence, calculate the length of $A T$, given that $C B=3 \mathrm{~cm}$ and $B T=5 \mathrm{~cm}$.
+
+\includegraphics[width=0.6\linewidth]{data/28_geometric_properties_of_circles/03.png}
+

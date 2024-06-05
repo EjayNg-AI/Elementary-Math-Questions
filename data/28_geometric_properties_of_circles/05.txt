@@ -1,0 +1,13 @@
+5 The diagram shows a circle $P Q R S T$, centre $O . P O$ is parallel to $T S$ and $R T$ is a diameter of the circle. Angle $P S T=35^{\circ}$. Giving a reason for each step of your working, find
+
+(a) angle $P O T$,
+
+(b) angle $P S R$,
+
+(c) angle $P T S$,
+
+(d) angle $P Q S$.
+
+(e) Given that area of triangle $P O T$ is $8 \mathrm{~cm}^2$ and $P O: T S=2: 3$, calculate the area of quadrilateral POST.
+
+\includegraphics[width=0.6\linewidth]{data/28_geometric_properties_of_circles/05.png}
