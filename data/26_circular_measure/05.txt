@@ -1,0 +1,7 @@
+The figure shows a sector of a circle of radius $12 \mathrm{~cm}$. The angle of the sector is $270^{\circ}$. The straight edges of the sector are brought together to make a cone. Calculate
+
+(a) the perimeter of the sector,
+
+(b) the vertical height of the cone.
+
+\includegraphics[width=0.3\linewidth]{data/26_circular_measure/05.png}

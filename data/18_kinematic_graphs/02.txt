@@ -1,0 +1,11 @@
+The diagram below shows a speed-time graph of a moving particle over a period of $t$ seconds.
+
+(a) Calculate the deceleration during the first 3 seconds.
+
+(b) Calculate the value of $t$ if the total distance moved for $t$ seconds is $63 \mathrm{~m}$.
+
+(c) Find the speed of the particle when $t=2.5$.
+
+(d) Sketch the distance-time graph of the particle over the period of $t$ seconds.
+
+\includegraphics[width=0.8\linewidth]{data/18_kinematic_graphs/02.png}

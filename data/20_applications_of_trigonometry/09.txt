@@ -1,0 +1,15 @@
+The diagram shows a triangular prism with $P Q R S$ lying on a horizontal plane. The points $U$ and $T$ are vertically above $S$ and $R$ respectively. The point $V$ lies on $U T$ such that $U V=\frac{1}{4} U T$. Given that $P Q=12 \mathrm{~cm}, Q R=10 \mathrm{~cm}$ and $R T=7.5 \mathrm{~cm}$, calculate
+
+(a) $P R$,
+
+(b) $P T$,
+
+(c) $P V$,
+
+(d) $\angle T P R$,
+
+(e) $\angle V P S$,
+
+(f) $\angle P V Q$.
+
+\includegraphics[width=0.5\linewidth]{data/20_applications_of_trigonometry/09.png}

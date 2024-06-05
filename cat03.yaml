@@ -1,4 +1,11 @@
 categories:
   - directory: 16_graph_sketching
     description: Graph Sketching
-
+  - directory: 18_kinematic_graphs
+    description: Kinematics Graphs
+  - directory: 19_pythagoras_theorem_and_further_trigonometry
+    description: Further Trigonometry
+  - directory: 20_applications_of_trigonometry
+    description: Applications of Trigonometry
+  - directory: 26_circular_measure
+    description: Circular Measure

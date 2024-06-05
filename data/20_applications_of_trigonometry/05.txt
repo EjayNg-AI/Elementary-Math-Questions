@@ -1,0 +1,7 @@
+In the diagram, $P Q R S$ shows a camping site. $Q T$ and $Q S$ represents two footpaths. $Q T=40 \mathrm{~m}$ $Q S=70 \mathrm{~m}, \angle Q P T=47^{\circ}, \angle Q R S=40^{\circ}$ and $\angle Q T S=\angle Q S R=90^{\circ}$. $P T S$ is a straight line.
+
+(a) Calculate $P S$ and $Q R$.
+
+(b) $S$ is due east of $P$. Calculate the bearing of $Q$ from $S$.
+
+\includegraphics[width=0.6\linewidth]{data/20_applications_of_trigonometry/05.png}

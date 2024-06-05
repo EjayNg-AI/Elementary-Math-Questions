@@ -1,0 +1,9 @@
+The diagram below shows the speed-time graph of an object which starts from rest.
+
+(a) Find the speed of the object at 7 seconds.
+
+(b) Find the value of $v$, if the total distance travelled in the first 30 seconds is $695 \mathrm{~m}$.
+
+(c) Given that the object decelerates at $4 \mathrm{~m} / \mathrm{s}^2$, find $t$, the total time taken for the journey.
+
+\includegraphics[width=0.5\linewidth]{data/18_kinematic_graphs/06.png}

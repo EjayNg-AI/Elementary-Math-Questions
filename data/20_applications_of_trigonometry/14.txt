@@ -1,0 +1,15 @@
+The diagram shows an airport control tower AP of vertical height $102 \mathrm{~m} . \mathrm{A}, \mathrm{B}$ and $C$ are points on level ground where the bearing of $B$ from $C$ is $267.8^{\circ}$, the bearing of $A$ from $C$ is $293^{\circ}, A B=$ $248 \mathrm{~m}$ and $A C=374 \mathrm{~m}$.
+
+(a) Show that angle $A C B=25.2^{\circ}$.
+
+(b) Calculate angle $A B C$.
+
+(c) Find the area of triangle $A B C$.
+
+(d) A ground handling staff, $M$, walks in a straight line from $B$ to $C$.
+
+(i) Show that the shortest distance of $M$ from $A$ is $159.24 \mathrm{~m}$ correct to 5 significant figures.
+
+(ii) Hence, find the greatest angle of elevation of $P$ from $M$.
+
+\includegraphics[width=0.5\linewidth]{data/20_applications_of_trigonometry/14.png}

@@ -1,0 +1,17 @@
+The diagram shows 5 points, $A, B, C, D$ and $E$ on level ground. $\angle A E C=90^{\circ}, \angle A C B=133^{\circ}$ and $\angle C A E=24^{\circ} . B C=35 \mathrm{~m}, C D=86 \mathrm{~m}$ and $C E=30 \mathrm{~m}$.
+
+(a) Calculate
+
+(i) $\angle C D E$,
+
+(ii) $A C$,
+
+(iii) $A B$,
+
+(iv) the area of triangle $C D E$,
+
+(v) the shortest distance from $E$ to $C D$.
+
+(b) A vertical tree of height $18 \mathrm{~m}$ stands at $E$. Calculate the greatest possible angle of elevation of the top of the tree when viewed from a point along $C D$.
+
+\includegraphics[width=0.6\linewidth]{data/20_applications_of_trigonometry/12.png}

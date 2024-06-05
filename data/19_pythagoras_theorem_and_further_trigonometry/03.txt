@@ -1,0 +1,11 @@
+In the diagram, $R S=9 \mathrm{~cm}, R V=7 \mathrm{~cm}, S T=10 \mathrm{~cm}, \angle T R V=32^{\circ}$ and $\angle R T V=70^{\circ} . S T U$ and $R V U$ are straight lines. Calculate
+
+(a) $R T$,
+
+(b) $\angle R T S$,
+
+(c) $T U$,
+
+(d) the area of $\triangle R S U$.
+
+\includegraphics[width=0.5\linewidth]{data/19_pythagoras_theorem_and_further_trigonometry/03.png}

@@ -1,0 +1,11 @@
+The diagram shows two circles, with centres $A$ and $B$, each of radius $5 \mathrm{~cm}$, touching each other externally at $X$. Both of them touch another bigger circle, with centre $O$ and radius $13 \mathrm{~cm}$, internally at $D$ and $C$ respectively.
+
+(a) Show that $\angle C O D$ is 1.35 radians.
+
+(b) Calculate
+
+(i) the perimeter and
+
+(ii) the area of the shaded region.
+
+\includegraphics[width=0.5\linewidth]{data/26_circular_measure/06.png}

@@ -1,0 +1,11 @@
+A cruise ship sailed from Port $A$ to Island $X$ which is $30 \mathrm{~km}$ due east of Island $Y$. Given that $\angle A X Y=50^{\circ}$ and $\angle A Y X=55^{\circ}$, calculate
+
+(a) the bearing of $X$ from $A$,
+
+(b) the bearing of $Y$ from $A$,
+
+(c) the distance of $A X$,
+
+(d) the shortest distance between Island $Y$ and the ship during its journey.
+
+\includegraphics[width=0.4\linewidth]{data/20_applications_of_trigonometry/04.png}

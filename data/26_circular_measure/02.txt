@@ -1,0 +1,13 @@
+In the diagram below, $O$ is the centre of the circle with radius $4 \mathrm{~cm}$ and passing through the points $A$, $B, C$ and $D . E$ is the midpoint of $O C . A O E C$ is a straight line. $A$ is the centre of a circle through $B, E$ and $D$.
+
+(a) Show that $\angle A O B$ is approximately $1.70 \mathrm{rad}$.
+
+(b) Calculate
+
+(i) the area of sector $O B C D$,
+
+(ii) the perimeter of the shaded region,
+
+(iii) the area of the shaded region.
+
+\includegraphics[width=0.5\linewidth]{data/26_circular_measure/02.png}

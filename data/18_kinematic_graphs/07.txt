@@ -1,0 +1,7 @@
+The diagram shows a speed-time graph of a car.
+
+(a) Given that the average speed of the car in the 20 seconds is $21 \mathrm{~m} / \mathrm{s}$, calculate the maximum speed $V \mathrm{~m} / \mathrm{s}$ and the speed of the car at $t=18 \mathrm{~s}$.
+
+(b) Sketch the distance-time graph of the car for the period of 20 seconds.
+
+\includegraphics[width=0.5\linewidth]{data/18_kinematic_graphs/07.png}

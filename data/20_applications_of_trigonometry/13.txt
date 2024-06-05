@@ -1,0 +1,15 @@
+In the diagram, $A, B$ and $C$ are three points on a horizontal field. $B D$ is a vertical flagpole. $C$ is due south of $B$ and $A$ is $20 \mathrm{~m}$ due west of $B$. The bearing of $A$ from $C$ is $325^{\circ}$ and the angle of elevation of $D$ from $A$ is $29^{\circ}$.
+
+(a) Calculate
+
+(i) the height of the flagpole,
+
+(ii) the distance of $A C$,
+
+(iii) the shortest distance from $B$ to $A C$,
+
+(iv) the angle of elevation of $D$ from $C$.
+
+(b) An owl is hovering $30 \mathrm{~m}$ above the field. It spots a rodent on the ground at an angle of depression of $52^{\circ}$. Calculate the distance the owl must fly to catch the rodent.
+
+\includegraphics[width=0.4\linewidth]{data/20_applications_of_trigonometry/13.png}

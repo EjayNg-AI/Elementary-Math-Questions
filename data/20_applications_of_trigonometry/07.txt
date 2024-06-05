@@ -1,0 +1,13 @@
+In the diagram, $V P Q R S$ is a pyramid with a horizontal square base $P Q R S$ of side $8 \mathrm{~cm}$. The diagonals of the base intersect at $X . V$ is $12 \mathrm{~cm}$ vertically above $X$. The midpoint of $P Q$ is $M$. Calculate
+
+(a) $Q X$,
+
+(b) $V Q$,
+
+(c) $V M$,
+
+(d) $\angle Q V M$,
+
+(e) $\angle V Q X$.
+
+\includegraphics[width=0.4\linewidth]{data/20_applications_of_trigonometry/07.png}

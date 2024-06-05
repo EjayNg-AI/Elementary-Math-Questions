@@ -1,0 +1,9 @@
+In the diagram, $A, B$ and $C$ are three points on level ground. $B$ is $75 \mathrm{~m}$ from $A$, on a bearing of $060^{\circ}$. $C$ is due south of $B$ and is $90 \mathrm{~m}$ from $A$.
+
+(a) Calculate the bearing of $A$ from $B$ and the $\angle A C B$.
+
+(b) A tree $T$, is located $50 \mathrm{~m}$ due west of $A$. A man walks from the tree directly to $B$. How far does he walk?
+
+(c) The man continues to walk from $B$ towards $C$ until he reaches a point $E$ where $E T$ is minimum. Find the distance of $E T$.
+
+\includegraphics[width=0.4\linewidth]{data/20_applications_of_trigonometry/06.png}

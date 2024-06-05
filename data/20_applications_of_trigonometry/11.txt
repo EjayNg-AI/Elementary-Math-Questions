@@ -1,0 +1,11 @@
+The following diagram consists of a rectangular pyramid and a rectangular cuboid. Given that $E F=16 \mathrm{~cm}, F G=12 \mathrm{~cm}, A E=28 \mathrm{~cm}, V O=20 \mathrm{~cm}$ and $W$ is a point on $A B$ such that $A W=W B$. Calculate
+
+(a) $B D$,
+
+(b) $\angle C V O$,
+
+(c) $W G$,
+
+(d) $\angle E O F$.
+
+\includegraphics[width=0.4\linewidth]{data/20_applications_of_trigonometry/11.png}

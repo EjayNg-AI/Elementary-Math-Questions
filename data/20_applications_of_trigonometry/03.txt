@@ -1,0 +1,7 @@
+In the diagram, $A, B, C$ and $D$ represents the positions of 4 fishing boats. $A$ is $45 \mathrm{~m}$ due west of $D . B$ is $60 \mathrm{~m}$ due south of $A . \angle B D C=90^{\circ}$. Find
+
+(a) the bearing of $D$ from $B$,
+
+(b) the bearing of $C$ from $D$.
+
+\includegraphics[width=0.4\linewidth]{data/20_applications_of_trigonometry/03.png}

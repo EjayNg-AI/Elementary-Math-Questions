@@ -1,0 +1,3 @@
+A regular pentagon $A B C D E$ is inscribed in a circle, centre $O$. Given that $A C=13 \mathrm{~cm}$, find the perimeter of the pentagon.
+
+\includegraphics[width=0.4\linewidth]{data/19_pythagoras_theorem_and_further_trigonometry/06.png}

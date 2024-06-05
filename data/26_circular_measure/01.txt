@@ -1,0 +1,11 @@
+The figure below is made up of two intersecting circles. The points $A$ and $B$ lie on the circumference of the circles. The larger circle has centre $C$. $A C=B C=16 \mathrm{~cm}$ and $\angle A C B=0.85$ radians.
+
+(a) Calculate the area of the shaded segment.
+
+The smaller circle, with centre $D$, cuts the first circle at $A$ and $B$. The radius of the smaller circle is $12 \mathrm{~cm}$ and $\angle C A D=2.285$ radians, correct to 3 decimal places.
+
+(b) Calculate, in radians, $\angle A D B$.
+
+(c) Calculate the perimeter of the sector $A D B$.
+
+\includegraphics[width=0.5\linewidth]{data/26_circular_measure/01.png}

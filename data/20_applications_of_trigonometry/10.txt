@@ -1,0 +1,7 @@
+In the diagram, $A B C D$ is a rectangular door frame of a bank vault. $A B F E$ is the rectangular door which is opened through $22^{\circ}$ as shown. $A B=205 \mathrm{~cm}, A D=A E=135 \mathrm{~cm}$. Calculate
+
+(a) $D E$,
+
+(b) $\angle C A F$.
+
+\includegraphics[width=0.5\linewidth]{data/20_applications_of_trigonometry/10.png}

@@ -1,0 +1,9 @@
+The diagram shows the speed-time graphs of a bus and a car. The bus is uniformly retarded from a speed of $12 \mathrm{~m} / \mathrm{s}$ to a speed of $6 \mathrm{~m} / \mathrm{s}$ in 8 seconds. It then continues to travel at this constant speed.
+
+(a) Find the speed of the bus after it travels for 6 seconds.
+
+(b) Find the distance travelled by the bus in 20 seconds.
+
+(c) The car starts from the same place as the bus, but 8 seconds later, it accelerates uniformly until it overtakes the bus. Given that the overtaking occurs when the bus has travelled for 20 seconds, calculate the speed of the car at this instant.
+
+\includegraphics[width=0.5\linewidth]{data/18_kinematic_graphs/08.png}

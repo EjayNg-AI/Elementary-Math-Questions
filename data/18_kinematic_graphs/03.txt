@@ -1,0 +1,9 @@
+Town $A$ and town $B$ are $100 \mathrm{~km}$ apart. The diagram below shows the graphs of vans $P$ and $Q$ travelling on the same straight road between town $A$ and town $B$ during the morning period between 8:00 and 10:00. Van $P$ travels at a constant speed during the entire morning period while van $Q$ comes to rest at 8:45.
+
+(a) Find the distance of van $P$ from town $A$ at 8:45 in the morning.
+
+(b) At what time do van $P$ and van $Q$ first meet?
+
+(c) The driver of van $Q$ claims that his van's average speed is higher than that of van $P$ during the period from 8:45 to 10:00 in the morning. Is he correct? Justify your answer.
+
+\includegraphics[width=0.6\linewidth]{data/18_kinematic_graphs/03.png}

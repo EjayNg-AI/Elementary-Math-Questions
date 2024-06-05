@@ -1,0 +1,9 @@
+The figure shows two circles, with centres $O$ and $C$ and radii $8 \mathrm{~cm}$ and $r \mathrm{~cm}$, which touch externally at $P$. Given that the minor arc $A P$ is $6.8 \mathrm{~cm}, \angle B C P$ $=\frac{\pi}{3}$ radians and $A B$ is parallel to $O P C$, find
+
+(a) $\angle A O P$ in radians and the height of the trapezium $A B C O$.
+
+(b) Show that $r$ is approximately 6.94.
+
+(c) Find the area of the shaded region.
+
+\includegraphics[width=0.5\linewidth]{data/26_circular_measure/04.png}

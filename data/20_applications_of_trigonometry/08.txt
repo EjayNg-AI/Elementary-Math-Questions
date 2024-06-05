@@ -1,0 +1,13 @@
+The diagram shows a cuboid. $N$ is the centre of the rectangular face $A B C D$ and $V N$ is vertical of length $7.5 \mathrm{~cm}$. Given that $A B=18 \mathrm{~cm}$ and $B C=24 \mathrm{~cm}$, calculate
+
+(a) $\angle V A C$,
+
+(b) the length of $V A$,
+
+(c) $\angle V A B$,
+
+(d) $\angle V M N$, where $M$ is the midpoint of $B C$,
+
+(e) $\angle S B T$.
+
+\includegraphics[width=0.5\linewidth]{data/20_applications_of_trigonometry/08.png}

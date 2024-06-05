@@ -1,0 +1,15 @@
+The figure shows the positions of $P, Q$ and $R$. State the bearing of
+
+(a) $Q$ from $P$,
+
+(b) $P$ from $Q$,
+
+(c) $R$ from $P$,
+
+(d) $P$ from $R$,
+
+(e) $Q$ from $R$,
+
+(f) $R$ from $Q$.
+
+\includegraphics[width=0.4\linewidth]{data/20_applications_of_trigonometry/02.png}

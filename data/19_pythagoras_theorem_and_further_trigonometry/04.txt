@@ -1,0 +1,11 @@
+$P Q R S$ is a parallelogram with $P Q=11.2 \mathrm{~cm}, Q R=15.8 \mathrm{~cm}, \angle P Q T=21^{\circ}$ and $\angle R S T=60^{\circ}$.
+
+(a) Find $\angle Q P S$ and $\angle T Q R$.
+
+(b) Find the area of parallelogram $P Q R S$.
+
+(c) Show that $Q T=15.41 \mathrm{~cm}$, correct to 4 significant figures.
+
+(d) Find the length of $R T$.
+
+\includegraphics[width=0.5\linewidth]{data/19_pythagoras_theorem_and_further_trigonometry/04.png}

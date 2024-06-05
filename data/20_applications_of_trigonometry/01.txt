@@ -1,0 +1,15 @@
+The figure shows the positions of $P, A, B$ and $C$. State the bearing of
+
+(a) $A$ from $P$,
+
+(b) $B$ from $P$,
+
+(c) $C$ from $P$,
+
+(d) $P$ from $A$,
+
+(e) $P$ from $B$,
+
+(f) $P$ from $C$.
+
+\includegraphics[width=0.4\linewidth]{data/20_applications_of_trigonometry/01.png}

@@ -1,0 +1,9 @@
+The diagram shows a cloth badge, $A B C D$ in the shape of a trapezium with $A D$ parallel to $B C$. $A D=36 \mathrm{~mm}, B C=54 \mathrm{~mm}, \angle A B C=32^{\circ}$ and $\angle C A D=27^{\circ}$. Calculate
+
+(a) $\angle B A C$,
+
+(b) $A C$,
+
+(c) the area of the trapezium $A B C D$.
+
+\includegraphics[width=0.5\linewidth]{data/19_pythagoras_theorem_and_further_trigonometry/01.png}

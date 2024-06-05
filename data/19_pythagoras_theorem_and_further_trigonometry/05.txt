@@ -1,0 +1,7 @@
+In the diagram, $P Q R$ is a triangular plot of land. $P Q=45 \mathrm{~m}, Q R=72 \mathrm{~m}$ and $P R=57 \mathrm{~m}$.
+
+(a) Calculate $\angle P Q R$.
+
+(b) The triangular plot $P S R$ is used to plant sunflowers. The area of triangle $P S R$ is $446 \mathrm{~m}^2$ and the length of $P S$ is $28 \mathrm{~m}$. Calculate $\angle R P S$.
+
+\includegraphics[width=0.5\linewidth]{data/19_pythagoras_theorem_and_further_trigonometry/05.png}

@@ -1,0 +1,9 @@
+In the diagram, $P S=Q S=9 \mathrm{~cm}, Q R=4 \mathrm{~cm}, \angle P S Q=46^{\circ}$ and $\angle Q S R=20^{\circ}$. Calculate
+
+(a) $P Q$,
+
+(b) $\angle Q R S$,
+
+(c) the shortest distance from $P$ to $R S$.
+
+\includegraphics[width=0.4\linewidth]{data/19_pythagoras_theorem_and_further_trigonometry/07.png}

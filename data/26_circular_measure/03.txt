@@ -1,0 +1,9 @@
+The diagram shows an isosceles triangle $\triangle A B C$ in which $B C=A C=10 \mathrm{~cm}$ and $\angle B A C=0.7$ radians. $D C$ is an arc of a circle with centre $A$ and radius $A C$.
+
+(a) Show that $\angle A C B=1.74$ radians.
+
+(b) Find the area of the shaded region.
+
+(c) Find the perimeter of the shaded region.
+
+\includegraphics[width=0.5\linewidth]{data/26_circular_measure/03.png}

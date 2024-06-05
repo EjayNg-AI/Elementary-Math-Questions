@@ -1,0 +1,10 @@
+The diagram shows the speed-time graph of car $A$ and car $B$.
+Car $A$ accelerates constantly from rest to a speed of $20 \mathrm{~m} / \mathrm{s}$ in 5 seconds and then continues at this speed. Car $B$ accelerates constantly to a speed of $\nu \mathrm{m} / \mathrm{s}$ in $t$ seconds. Both cars have the same starting point.
+
+(a) If car $B$ overtakes car $A$ at time $t$ after travelling for $750 \mathrm{~m}$, find the value of $t$.
+
+(b) Find the speed of car $B$ when it overtakes $\operatorname{car} A$.
+
+(c) Hence find the acceleration of $\operatorname{car} B$.
+
+\includegraphics[width=0.6\linewidth]{data/18_kinematic_graphs/01.png}

@@ -1,0 +1,13 @@
+Fig. 1 shows the distance-time graph of an object $A$ and Fig. 2 shows the speed-time graph of an object $B$ for the first 20 seconds of their journey.
+
+(a) State the acceleration of object $A$.
+
+(b) Calculate the speed of object $B$ after 3 seconds.
+
+(c) On Fig. 2, draw the speed-time graph of object $A$.
+
+(d) Given that both objects start travelling at the same time on the same route, calculate the time taken by object $B$ to overtake object $A$.
+
+(e) Sketch the distance-time graph of object $B$ for the first 20 seconds of its journey.
+
+\includegraphics[width=0.8\linewidth]{data/18_kinematic_graphs/04.png}

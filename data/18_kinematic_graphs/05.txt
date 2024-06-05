@@ -1,0 +1,11 @@
+The graph below shows the speed of Lydia's and Wayne's remote-controlled toy cars.
+
+(a) Calculate the acceleration of Lydia's toy car.
+
+(b) Find the speed of Lydia's toy car at $t=8$.
+
+(c) Lydia's toy car and Wayne's toy car start from the same point at the same time and travel in the same direction. After $T \mathrm{~s}$, Lydia's toy car has travelled the same distance as Wayne's toy car. Find the value of $T$.
+
+(d) Sketch the distance-time graph and the acceleration-time graph for Lydia's toy car for $0 \leqslant t \leqslant T$.
+
+\includegraphics[width=0.5\linewidth]{data/18_kinematic_graphs/05.png}

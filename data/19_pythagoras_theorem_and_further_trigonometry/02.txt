@@ -1,0 +1,7 @@
+In the diagram, $A B$ is a vertical pole. $C$ and $D$ are two pegs on level ground. $\angle A D B=30^{\circ}$ $\angle A C B=57^{\circ}$ and $C D=12 \mathrm{~m}$. Find
+
+(a) the height of the pole,
+
+(b) $A D$.
+
+\includegraphics[width=0.4\linewidth]{data/19_pythagoras_theorem_and_further_trigonometry/02.png}

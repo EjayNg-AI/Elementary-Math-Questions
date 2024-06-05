@@ -1,0 +1,13 @@
+The graph shows the speed of a car and a van at time $t$ minutes, for $0 \leqslant t \leqslant 12$. The car is travelling at a constant speed of $0.4 \mathrm{~km} / \mathrm{min}$ for 4 minutes before accelerating uniformly to a speed of $1 \mathrm{~km} / \mathrm{min}$ in the next 6 minutes. It then continues with the same speed for the next 2 minutes. Calculate
+
+(a) the acceleration of the car at $t=8$,
+
+(b) the average speed of the car in $\mathrm{km} / \mathrm{min}$ for the first 12 minutes.
+
+The van starts at $t=2$ from the same starting point as the car and travels in the same direction as the car with a constant acceleration.
+
+(c) How far apart are the car and the van when $t=12$ ?
+
+(d) At $t=12$, the car starts to decelerate uniformly where the magnitude of the deceleration is double that of the acceleration of the van. Find the time when the car comes to rest.
+
+\includegraphics[width=0.5\linewidth]{data/18_kinematic_graphs/09.png}
