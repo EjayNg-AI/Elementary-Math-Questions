@@ -1,0 +1,5 @@
+A bag contains 60 balls, some of which are red, some are blue and the rest are yellow. The probabilities of drawing a red ball and a blue ball are $\frac{1}{6}$ and $\frac{1}{5}$ respectively.
+
+(a) Find the number of yellow balls.
+
+(b) If $x$ yellow balls are removed from the bag so that the probability of drawing a yellow ball from the remaining balls becomes $\frac{9}{20}$, find $x$.

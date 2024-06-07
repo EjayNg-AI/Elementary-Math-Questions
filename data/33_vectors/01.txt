@@ -1,0 +1,15 @@
+In the diagram, PTS and QTR are straight lines. The coordinates of $P$ and $R$ are $(-4,9)$ and $(6,5)$ respectively. $\overrightarrow{P Q}=\binom{6}{-12}$ and $\overrightarrow{R S}=\frac{1}{3} \overrightarrow{P Q}$. Find
+
+(a) the coordinates of the points $Q$ and $S$,
+
+(b) $|\overrightarrow{Q R}|$,
+
+(c) the value of $m$ given that the coordinates of $T$ are $(5, m)$,
+
+(d) the numerical value of
+
+(i) $\frac{\text { area of } \triangle P Q T}{\text { area of } \triangle S R T}$,
+
+(ii) $\frac{\text { area of } \triangle S R T}{\text { area of } \triangle S R Q}$.
+
+\includegraphics[width=0.5\linewidth]{data/33_vectors/01.png}

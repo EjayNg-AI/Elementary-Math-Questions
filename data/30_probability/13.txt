@@ -1,0 +1,11 @@
+In a bag containing $n$ balls, there are 15 red balls and the rest are blue balls. Two balls are selected from the bag at random, without replacement.
+
+(a) Draw a tree diagram with probabilities indicated.
+
+(b) The probability that two blue balls are selected is $\frac{3}{23}$. Write down an equation to represent this information and show that it simplifies to $2 n^2-71 n+552=0$.
+
+(c) Solve the equation $2 n^2-71 n+552=0$. Explain why one of the solutions will be rejected.
+
+(d) Find the probability that both balls are different in colour.
+
+(e) A third ball is selected. Find the probability that at least one of the balls selected is red.

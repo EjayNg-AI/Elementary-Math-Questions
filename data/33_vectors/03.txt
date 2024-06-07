@@ -1,0 +1,15 @@
+The position vectors of $A$, $B$ and $C$, relative to $O$, are $12 \mathbf{a}$, $12 \mathbf{b}$ and $(6 \mathbf{a}+6 \mathbf{b})$ respectively. $O Y=\frac{1}{3} O B$ and $O X=X C$.
+
+(a) Express in terms of $\mathbf{a}$ and $\mathbf{b}$, as simply as possible,
+
+(i) $\overrightarrow{O X}$
+
+(ii) $\overrightarrow{A X}$,
+
+(iii) $\overrightarrow{A Y}$.
+
+(b) Explain why $A, X$ and $Y$ lie in a straight line.
+
+(c) Write down the ratio $A X: A Y$.
+
+\includegraphics[width=0.5\linewidth]{data/33_vectors/03.png}

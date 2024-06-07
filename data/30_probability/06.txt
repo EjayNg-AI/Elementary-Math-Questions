@@ -1,0 +1,7 @@
+A bag contains 5 identical balls. One marked with letter $W$, one with letter $H$, one with letter $L$ and the other two $E$. The balls are picked at random from the bag, one at a time, without replacement. Calculate the probability that
+
+(a) the first two balls picked will have $E$ on them,
+
+(b) the second ball drawn will have the letter $H$ on it,
+
+(c) the order in which the balls are drawn will spell the word $W H E E L$.

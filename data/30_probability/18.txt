@@ -1,0 +1,23 @@
+The table shows the ages of the 240 people who entered the cycle race.
+
+\begin{tabular}{|l|l|c|c|c|c|}
+\hline \multicolumn{2}{|l|}{ Age $(a$ years $)$} & $20 \leq a<30$ & $30 \leq a<40$ & $40 \leq a<50$ & $50 \leq a<60$ \\
+\hline \multirow{2}{*}{ Frequency } & Men & 35 & 46 & 24 & 15 \\
+\cline { 2 - 6 } & Women & 27 & 34 & 41 & I8 \\
+\hline
+\end{tabular}
+
+(a) One of these people is selected at random.
+
+Find, as a fraction in its lowest terms, the probability that the person is
+
+(i) a man aged 50 or above,
+(ii) aged under 30 .
+
+(b) Two people were selected at random. Find the probability that
+
+(i) both of them are women aged under 40 .
+
+(ii) one of them is a Man aged under 30 and the other is a Woman aged 40 or above.
+
+(iii) both are aged under 30 .

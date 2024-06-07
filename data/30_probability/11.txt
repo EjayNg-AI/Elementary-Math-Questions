@@ -1,0 +1,15 @@
+The diagram shows a game 'Maze Runner' in a school carnival. Participants have to reach Checkpoint $X$ within a certain period of time to win a prize. There are no prizes awarded for reaching Checkpoints $Y$ and $Z$. There are four junctions $A, B, C$ and $D$ in the maze. Once a participant runs past a particular junction, the participant is not able to make a turnaround.
+
+\includegraphics[width=0.5\linewidth]{data/30_probability/01.png}
+
+Patrick is participating in the 'Maze Runner'. The probability that he goes straight at every junction is $\frac{2}{7}$.
+
+(a) Find the probability that Patrick
+
+(i) passes junction $B$,
+
+(ii) hits the dead end,
+
+(iii) wins the prize.
+
+(b) Explain, with working, if Patrick should play the game.

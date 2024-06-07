@@ -1,0 +1,1 @@
+Amanda is a javelin thrower. To qualify for a national competition, she must throw over 50 metres in at least one of 3 throws. The probability of her throwing over 50 metres in any one throw is $p$. The probability of her not qualifying for the national competition is $\frac{64}{343}$. Find the value of $p$.

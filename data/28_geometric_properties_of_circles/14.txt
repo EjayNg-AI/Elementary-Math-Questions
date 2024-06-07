@@ -1,0 +1,13 @@
+In the diagram, $O$ is the centre of the circle and $B, C, D, E$ and $F$ lie on the circle. $A B$ is a tangent to the circle at $B$. $A F C$ is a straight line, $F D$ is parallel to $B C, A F=5 \mathrm{~cm}$. $\angle D C E=34^{\circ}$ and $\angle B A C=28^{\circ}$. Find
+
+(a) $\angle A B O$
+
+(b) $\angle O B C$
+
+(c) $\angle B E C$
+
+(d) $\angle F D E$
+
+(e) Calculate the value of the radius of the circle.
+
+\includegraphics[width=0.6\linewidth]{data/28_geometric_properties_of_circles/14.png}

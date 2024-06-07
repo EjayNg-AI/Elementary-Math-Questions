@@ -1,0 +1,9 @@
+In a school examination, the probabilities that David will pass Mathematics, English and Science are $\frac{7}{8}, \frac{7}{10}$ and $\frac{4}{5}$ respectively. Find the probability that David
+
+(a) passes English only,
+
+(b) passes English and Science only,
+
+(c) fails exactly two subjects,
+
+(d) passes at least one subject.

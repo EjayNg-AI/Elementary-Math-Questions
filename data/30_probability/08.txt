@@ -1,0 +1,7 @@
+A box contains 8 black, 6 yellow and 2 white balls. A ball was picked at random from the box, its colour was noted and the ball was replaced. A second ball was then picked from the box. Find the probability that the balls were
+
+(a) both black,
+
+(b) not white,
+
+(c) of different colours.

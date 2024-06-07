@@ -1,0 +1,23 @@
+In the diagram, $O B P$ is a triangle, $\overrightarrow{O P}=\mathbf{p}$ and $\overrightarrow{O Q}=\mathbf{q}$. The point $Q$ lies on $O B$ such that $O Q: O B=2: 3$. $O P$ is produced to $A$ such that $O P: P A=3: 1$. The point $R$ lies on $B P$ such that $B R: R P=2: 1$.
+
+(a) Express, as simply as possible in terms of $\mathbf{p}$ and/or $\mathbf{q}$,
+
+(i) $\overrightarrow{Q P}$,
+
+(ii) $\overrightarrow{B P}$,
+
+(iii) $\overrightarrow{O R}$,
+
+(iv) $\overrightarrow{O A}$.
+
+(b) Show that $\overrightarrow{R A}=\frac{2}{3} \mathbf{p}-\frac{1}{2} \mathbf{q}$.
+
+(c) Given that $\overrightarrow{Q A}=k \overrightarrow{RA}$, find the value of $k$ where $k$ is a scalar.
+
+(d) Write down two facts about $Q A$ and $R A$.
+
+(e) Find the numerical value of $\frac{\text { area of } \triangle P R A}{\text { area of } \triangle P Q A}$.
+
+(f) Given that the area of triangle $P R A$ is 15 units $^2$, find the area of triangle $P Q A$.
+
+\includegraphics[width=0.5\linewidth]{data/33_vectors/06.png}

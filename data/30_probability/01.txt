@@ -1,0 +1,7 @@
+A die is biased so that the probability of getting a 6 after rolling it is $\frac{1}{2}$. All the other outcomes 1 , $2,3,4$ and 5 have the same probability of occurrence.
+
+(a) What is the probability of getting a 5?
+
+(b) The die is rolled twice. What is the probability that the total score is 8 ?
+
+(c) The die is continuously rolled until a 5 appears. Find the probability that the 5 appears after four rolls.

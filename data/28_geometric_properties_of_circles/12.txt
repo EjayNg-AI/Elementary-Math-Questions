@@ -1,0 +1,3 @@
+The diagram shows a major segment where $h$ is the perpendicular distance between the chord $P Q$ to the highest point $A$ in the segment. Given that $h=P Q=8 \mathrm{~cm}$, find the radius of the circle.
+
+\includegraphics[width=0.4\linewidth]{data/28_geometric_properties_of_circles/12.png}

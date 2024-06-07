@@ -1,4 +1,4 @@
-5 The diagram shows a circle $P Q R S T$, centre $O . P O$ is parallel to $T S$ and $R T$ is a diameter of the circle. Angle $P S T=35^{\circ}$. Giving a reason for each step of your working, find
+The diagram shows a circle $P Q R S T$, centre $O$. $P O$ is parallel to $T S$ and $R T$ is a diameter of the circle. Angle $P S T=35^{\circ}$. Giving a reason for each step of your working, find
 
 (a) angle $P O T$,
 

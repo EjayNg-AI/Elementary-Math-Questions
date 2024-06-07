@@ -1,0 +1,7 @@
+A bag contains 3 pink balls and 9 blue balls. A ball is drawn at random. If it is pink, it is replaced in the bag; if it is blue, it is not replaced in the bag. Regardless of the colour of the first ball drawn, a second ball is then drawn.
+
+(a) Draw the tree diagram.
+
+(b) Hence, or otherwise, find the probability that the second ball drawn is pink.
+
+(c) Hence, or otherwise, find the probability that at least one ball drawn is blue.

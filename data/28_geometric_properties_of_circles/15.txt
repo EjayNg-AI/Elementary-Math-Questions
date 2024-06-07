@@ -1,0 +1,15 @@
+In the diagram, $D E$ is a tangent to the circle with centre $O$. $A B C$ and $A O F$ are straight lines and angle $C B E=61^{\circ}$.
+
+(a) Giving your reasons, find
+
+(i) angle $A O E$
+
+(ii) angle $A F E$
+
+(iii) angle $A E O$
+
+(iv) angle $A E D$.
+
+(b) Are the lines $A E$ and $D C$ parallel? Give a reason for your answer.
+
+\includegraphics[width=0.6\linewidth]{data/28_geometric_properties_of_circles/15.png}

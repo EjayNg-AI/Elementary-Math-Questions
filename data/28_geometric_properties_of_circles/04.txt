@@ -1,4 +1,4 @@
-In the diagram, $A B$ is a diameter of the circle $O . R A$ and $B Q$ are produced to meet at $P, B R S$ and $Q A S$ are straight lines. Given that $\angle A P Q=35^{\circ}$ and $\angle A B R=22^{\circ}$.
+In the diagram, $A B$ is a diameter of the circle $O$. $R A$ and $B Q$ are produced to meet at $P$, $B R S$ and $Q A S$ are straight lines. Given that $\angle A P Q=35^{\circ}$ and $\angle A B R=22^{\circ}$.
 
 (a) Calculate
 

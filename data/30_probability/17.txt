@@ -1,0 +1,20 @@
+The table shows the number of students queuing at Stall F during recess on a particular day. Each student queues only once.
+
+\begin{tabular}{|c|c|c|c|}
+\hline & $\operatorname{Sec} 3$ & $\operatorname{Sec} 4$ & $\operatorname{Sec} 5$ \\
+\hline Boy & 18 & 7 & 6 \\
+\hline Girl & 10 & 16 & 8 \\
+\hline
+\end{tabular}
+
+(i) One student in the queue is selected at random.
+
+Find, as a fraction in its lowest term, the probability that the student is from Sec 4.
+
+(ii) Two students in the queue are selected at random.
+
+Find the probability that
+
+(a) one of them is a boy and the other is a girl,
+
+(b) both students are girls and one of them is from $\operatorname{Sec} 3$.

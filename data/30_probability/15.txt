@@ -1,0 +1,15 @@
+A Mathematics quiz is set every week. William takes the test each week until he passes. Each time he takes the test, the probability that he passes is $\frac{1}{5}$.
+
+(a) Expressing your answers as fractions, find the probability that William
+
+(i) fails the first test and passes the second test,
+
+(ii) passes the test in either the first or second week,
+
+(iii) fails the first three tests.
+
+(b) 
+
+(i) Find the probability, in terms of $n$, that William fails the first $n$ tests.
+
+(ii) Write down the probability, in terms of $n$, that William passes the test in one of the first $n$ weeks.

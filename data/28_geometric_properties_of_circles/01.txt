@@ -1,4 +1,4 @@
-The points $A, B, C, D$ and $E$ lie on a circle with centre $O$. FG is a tangent to the circle at $C$. It is given that $\angle A E C=77^{\circ}$ and $\angle E A O=63^{\circ}$. Giving your reasons clearly, find
+The points $A, B, C, D$ and $E$ lie on a circle with centre $O$. $FG$ is a tangent to the circle at $C$. It is given that $\angle A E C=77^{\circ}$ and $\angle E A O=63^{\circ}$. Giving your reasons clearly, find
 
 (a) $\angle A B C$,
 

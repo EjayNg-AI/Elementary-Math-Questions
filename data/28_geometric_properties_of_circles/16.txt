@@ -1,0 +1,3 @@
+The diagram shows an irregular polygon $A B C D E F$ inscribed in a circle. Explain why $\angle b+\angle d+\angle f=360^{\circ}$.
+
+\includegraphics[width=0.5\linewidth]{data/28_geometric_properties_of_circles/16.png}

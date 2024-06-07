@@ -1,0 +1,1 @@
+(a)(i) $122^{\circ}$, (a)(ii) $61^{\circ}$, (a)(iii) $29^{\circ}$, (a)(iv) $61^{\circ}$, (b) Yes. Since $\angle A E D=\angle E D C=61^{\circ}$. $AE$ is parallel to $DC$ by converse of alternate angles.

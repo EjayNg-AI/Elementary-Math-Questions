@@ -1,0 +1,14 @@
+In the diagram, $P Q R S T U$ is a regular hexagon, centre $O$. $\overrightarrow{O P}=\mathbf{p}$ and $\overrightarrow{O Q}=\mathbf{q}$. $X$ is the point on $P Q$ such that $P X: X Q=3: 1$ and $Y$ is the point on $P U$ such that $P Y: Y U=3: 1$.
+
+(a) Express, as simply as possible, in terms of $\mathbf{p}$ and/or $\mathbf{q}$,
+
+(i) $\quad \overrightarrow{P Q}$,
+
+(ii) $\overrightarrow{O X}$,
+
+(iii) $\overrightarrow{P Y}$.
+
+(b) $Y X$ intersects $O P$ at the point $Z$.
+Find $\overrightarrow{Y Z}$.
+
+\includegraphics[width=0.4\linewidth]{data/33_vectors/05.png}

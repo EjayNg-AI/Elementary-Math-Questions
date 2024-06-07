@@ -1,0 +1,11 @@
+The figure below shows a circle with centre $O$ . $P A Q$ and $S R$ are tangents to the circle at $A$ and $R$ respectively. $A C$ and $B D$ are the diameters of the circle.
+
+(a) Show that $\triangle O A B$ is congruent to $\triangle O D C$.
+
+(b) 
+
+(i) Show that $\triangle O A Q$ is similar to $\triangle S R Q$.
+
+(ii) Given that $S R=4.5 \mathrm{~cm}$ and $S Q=7.5 \mathrm{~cm}$, find the radius of the circle.
+
+\includegraphics[width=0.6\linewidth]{data/28_geometric_properties_of_circles/17.png}

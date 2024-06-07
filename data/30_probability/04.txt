@@ -1,0 +1,1 @@
+$\operatorname{Bag} A$ contains 3 blue balls and 7 green balls. Bag $B$ contains 5 blue balls and 9 green balls. A ball is taken from bag $A$ and placed in bag $B$. One ball is then taken from bag $B$. Given that the selections are random, find the probability that the ball taken from bag $B$ is green.

@@ -1,0 +1,11 @@
+There are 3 white balls and 2 green balls in a bag. A ball is drawn at random from the bag, the colour noted and the ball is not replaced. A second ball is then drawn.
+
+(a) Draw the possibility diagram to show the outcome of the draw.
+
+(b) Find, as a fraction in its simplest form, the probability that
+
+(i) both balls are green,
+
+(ii) at most 1 green ball
+
+(iii) at least 1 green ball

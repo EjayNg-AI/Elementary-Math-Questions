@@ -1,4 +1,4 @@
-In the diagram, $O$ is the centre of circle $A B C . T P$ and $T Q$ are tangents to the circle. $P T$ is parallel to $B O$ and $\angle O B C=29^{\circ}$. Calculate
+In the diagram, $O$ is the centre of circle $A B C$. $T P$ and $T Q$ are tangents to the circle. $P T$ is parallel to $B O$ and $\angle O B C=29^{\circ}$. Calculate
 
 (a) $\angle B O C$,
 

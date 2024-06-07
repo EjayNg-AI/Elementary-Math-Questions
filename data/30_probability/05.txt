@@ -1,0 +1,5 @@
+There are $r$ red balls and 6 blue balls in a container. The probability of picking a blue ball is $\frac{2}{5}$.
+
+(a) Show that $r=9$.
+
+(b) Two balls are selected at random, one after another without replacement. Draw a tree diagram with probabilities indicated, and hence, find the probability that the two balls selected are of the same colour.

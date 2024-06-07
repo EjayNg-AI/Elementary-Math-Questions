@@ -1,0 +1,1 @@
+(a)(i) $\frac{4}{25}$, (a)(ii) $\frac{9}{25}$, (a)(iii) $\frac{64}{125}$, (b)(i) $\left(\frac{4}{5}\right)^n$, (b)(ii) $1-\left(\frac{4}{5}\right)^n$

@@ -1,4 +1,4 @@
-In the diagram, $A$ and $B$ lie on the circle, centre $O$. TA and $T B$ are tangents to the circle. $O B=8 \mathrm{~cm}$ and $O T=24 \mathrm{~cm}$.
+In the diagram, $A$ and $B$ lie on the circle, centre $O$. $TA$ and $T B$ are tangents to the circle. $O B=8 \mathrm{~cm}$ and $O T=24 \mathrm{~cm}$.
 
 (a) Find $\angle O B T$, giving a reason for your answer.
 

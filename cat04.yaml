@@ -1,3 +1,5 @@
 categories:
   - directory: 28_geometric_properties_of_circles
     description: Geometric Properties of Circles
+  - directory: 30_probability
+    description: Probability

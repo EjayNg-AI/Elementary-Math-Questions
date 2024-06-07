@@ -1,0 +1,19 @@
+A magician randomly draws 2 cards from a stack of 5 cards labelled 5 to 9 , one after another without replacement. The sum of the numbers on the two cards is obtained.
+
+(a) Complete the following possibility diagram.
+
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline+ & 5 & 6 & 7 & 8 & 9 \\
+\hline 5 & & 11 & & & \\
+\hline 6 & 11 & & & & \\
+\hline 7 & & & & & \\
+\hline 8 & & & & & \\
+\hline 9 & & & & & \\
+\hline
+\end{tabular}
+
+(b) Calculate the probability that the sum obtained is not a multiple of 5 .
+
+A third card is chosen at random from the stack without replacement.
+
+(c) Find the probability that the sum of the numbers on the three cards is 24.

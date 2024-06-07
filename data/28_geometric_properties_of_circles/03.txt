@@ -1,4 +1,4 @@
-$A T$ is the tangent to the circle at $A . O$ is the centre of the circle and $C B T$ is a straight line. Given that $\angle B A T=42^{\circ}$ and $\angle C D A=80^{\circ}$,
+$A T$ is the tangent to the circle at $A$. $O$ is the centre of the circle and $C B T$ is a straight line. Given that $\angle B A T=42^{\circ}$ and $\angle C D A=80^{\circ}$,
 
 (a) find
 

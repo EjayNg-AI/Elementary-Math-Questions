@@ -1,0 +1,5 @@
+(a)(i) $\mathbf{3 a}+\mathbf{3 b}$, (a)(ii) $\mathbf{3} \mathbf{b}-9 \mathbf{a}$, (a)(iii) $4 \mathbf{b}-\mathbf{1 2 a}$,
+
+(b) $\overrightarrow{A X}  = \frac{3}{4} \overrightarrow{A Y}$. Since $\overrightarrow{A X} / / \overrightarrow{A Y}$ and $A$ is a common point, $A, X$ and $Y$ lie in a straight line.
+
+(c) $3:4$

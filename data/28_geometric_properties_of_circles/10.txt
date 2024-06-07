@@ -1,7 +1,7 @@
-In the circle with centre $O$, the chords $A C$ and $P R$ are each of length $8 \mathrm{~cm} . B$ is the midpoint of $A C$ and $Q$ is the midpoint of $P R$. Given that $O B=3 \mathrm{~cm}$.
+In the circle with centre $O$, the chords $A C$ and $P R$ are each of length $8 \mathrm{~cm}$. $B$ is the midpoint of $A C$ and $Q$ is the midpoint of $P R$. Given that $O B=3 \mathrm{~cm}$.
 
 (a) Calculate the area of the circle, leaving your answer in terms of $\pi$,
 
 (b) If $B Q$ has a length of $5.5 \mathrm{~cm}$, calculate $\angle B O Q$.
 
-\includegraphics[width=0.6\linewidth]{data/28_geometric_properties_of_circles/10.png}
+\includegraphics[width=0.5\linewidth]{data/28_geometric_properties_of_circles/10.png}

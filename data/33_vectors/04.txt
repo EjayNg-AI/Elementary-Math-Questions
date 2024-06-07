@@ -1,0 +1,17 @@
+In the diagram, $O P Q R$ is a parallelogram. $\overrightarrow{O P}=2 \mathbf{a}+3 \mathbf{b}$ and $\overrightarrow{O R}=\mathbf{b}-4 \mathbf{a}$.
+
+(a) Express, as simply as possible in terms of $\mathbf{a}$ and $\mathbf{b}$,
+
+(i) $\overrightarrow{Q P}$,
+
+(ii) $\overrightarrow{R P}$.
+
+(b) Given that $Y$ is the point such that $\overrightarrow{O Y}=3 \mathbf{a}+\mathbf{b}$,
+
+(i) show that $\overrightarrow{R P}$ is parallel to $\overrightarrow{O Y}$,
+
+(ii) find $\frac{\text { area of } \triangle O P R}{\text { area of } \triangle O P Y}$ and $\frac{\text { area of } \triangle O P Y}{\text { area of parallelogram } O P Q R}$,
+
+(iii) find the area of triangle $O P Y$ given that the area of the parallelogram $O P Q R$ is 14 units $^2$.
+
+\includegraphics[width=0.5\linewidth]{data/33_vectors/04.png}

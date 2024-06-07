@@ -1,0 +1,6 @@
+(a)(i) $4 \mathbf{a}-\mathbf{b}$, (a)(ii) $6 \mathbf{a}+2 \mathbf{b}$,
+
+(b)(i) $\overrightarrow{R P} =2 \overrightarrow{O Y}$. Since $\overrightarrow{R P}=2 \overrightarrow{O Y}, \overrightarrow{R P} / / \overrightarrow{O Y}$.
+
+(b)(ii) 2, $1/4$, (b)(iii) $3.5$
+

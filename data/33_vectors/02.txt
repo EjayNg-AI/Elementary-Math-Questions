@@ -1,0 +1,11 @@
+In the diagram, $P Q R$ is a triangle. $\overrightarrow{P Q}=\mathbf{a}$ and $\overrightarrow{P R}=\mathbf{b}$. The point $Y$ lies on $P R$ such that $P Y=\frac{3}{5} P R$. The point $X$ lies on $Q Y$ such that $Q X=\frac{2}{3} Q Y$.
+
+(a) Express, as simply as possible in terms of $\mathbf{a}$ and $\mathbf{b}$,
+
+(i) $\overrightarrow{Q Y}$,
+
+(ii) $\overrightarrow{P X}$.
+
+(b) Find the numerical value of $\frac{\text { area of } \triangle P X Y}{\text { area of } \triangle P Q R}$.
+
+\includegraphics[width=0.3\linewidth]{data/33_vectors/02.png}

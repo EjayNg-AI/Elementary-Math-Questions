@@ -1,0 +1,11 @@
+The diagram shows a target at a riffe range. 
+
+\includegraphics[width=0.4\linewidth]{data/30_probability/14.png}
+
+The target consists of three separate regions: circle $A$, inner ring $B$ and outer ring $C$ formed by three concentric circles of radii $2 \mathrm{~cm}, 4 \mathrm{~cm}$ and $5 \mathrm{~cm}$ respectively. A man hits the target every time he fires a shot and is equally likely to hit any part of the target. A hit in circle $A$ scores 50 points, a hit in the inner ring $B$ scores 30 points, a hit in the outer ring $C$ scores 10 points. Find, as a fraction, the probability that
+
+(a) a shot will score 50 points,
+
+(b) a shot will score 30 points,
+
+(c) after two shots, the total score will be exactly 60 points.

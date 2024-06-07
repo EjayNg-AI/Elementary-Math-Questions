@@ -6,4 +6,4 @@ In the diagram, $O$ is the centre of the circle of radius $8 \mathrm{~cm}, Q R=1
 
 (c) $\angle Q P R$.
 
-\includegraphics[width=0.6\linewidth]{data/28_geometric_properties_of_circles/11.png}
+\includegraphics[width=0.4\linewidth]{data/28_geometric_properties_of_circles/11.png}

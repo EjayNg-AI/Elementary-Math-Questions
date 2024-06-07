@@ -1,0 +1,7 @@
+The diagram below shows four points $A, B, C$ and $D$ on the circumference of a circle with centre $O$. $A B$ is a chord of length $8 \mathrm{~cm}$ and its perpendicular distance from $O$ is $4 \mathrm{~cm}$. $C D$ is a chord of perpendicular distance $2 \mathrm{~cm}$ from $O$. Find the
+
+(a) radius of the circle,
+
+(b) area of the shaded segment.
+
+\includegraphics[width=0.5\linewidth]{data/28_geometric_properties_of_circles/13.png}
