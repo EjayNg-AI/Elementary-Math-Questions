@@ -16,7 +16,7 @@ Factorize the following expressions completely:
 
 (h) $(x-a)^2-1$
 
-(i) $x^2-y^2+3 y-x$
+(i) $x^2-y^2+3 y-3x$
 
 (j) $16 x^2-8 x-y^2+1$
 
