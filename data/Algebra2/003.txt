@@ -2,7 +2,7 @@ Dennis and Marc took part in a $58 \mathrm{~km}$ cycling race.
 
 (a) Dennis cycled at an average speed of $x \mathrm{~km} / \mathrm{h}$. Write down in terms of $x$, an expression for the number of hours he took to complete the race.
 
-(b) Marc cycled at an average speed which was $3 \mathrm{~km} / \mathrm{h}$ greater than Marc's speed. Write down in terms of $x$, an expression for the number of hours he took to complete the race.
+(b) Marc cycled at an average speed which was $3 \mathrm{~km} / \mathrm{h}$ greater than Dennis' speed. Write down in terms of $x$, an expression for the number of hours Marc took to complete the race.
 
 (c) Given that Marc completed the race $1 \frac{1}{2}$ hours earlier than Dennis, form an equation in $x$ and show that it reduces to $x^2+3 x-116=0$.
 
