@@ -1,0 +1,9 @@
+categories:
+  - directory: 33_vectors
+    description: Vectors
+  - directory: 28_geometric_properties_of_circles
+    description: Geometric Properties of Circles
+  - directory: 16_graph_sketching
+    description: Graph Sketching
+  - directory: 18_kinematic_graphs
+    description: Kinematics Graphs
