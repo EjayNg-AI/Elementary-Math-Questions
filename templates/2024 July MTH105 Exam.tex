@@ -1,0 +1,1602 @@
+\documentclass[a4paper,12pt,oneside]{book}
+
+\usepackage{graphicx,graphics,color,amsmath,amssymb,epsfig,amsthm,bezier,enumerate,amscd,makeidx}
+\usepackage{collectbox}
+\usepackage{palatino}
+\usepackage{etoolbox,lipsum}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{mathptmx}
+\usepackage{anyfontsize}
+\usepackage{t1enc}
+\usepackage{wrapfig}
+\usepackage{framed}
+\usepackage{mathtools}
+\usepackage{caption}
+
+\linespread{1.3}
+\fontfamily{ppl}
+\addtolength{\topmargin}{-0.8in}
+\setlength{\parindent}{.43in}
+\setlength{\textheight}{245mm}
+\setlength{\textwidth}{165mm}
+\setlength{\oddsidemargin}{2mm}
+\setlength{\evensidemargin}{2mm}
+\setlength{\headheight}{12pt}
+\renewcommand{\headrulewidth}{0.2pt}
+\renewcommand{\footrulewidth}{0.2pt}
+\pagestyle{fancy}
+\fancyhf{}
+
+\newtheorem{thm}{Theorem}[section]
+\newtheorem{metathm}[thm]{Metatheorem}
+\newtheorem{pro}[thm]{Proposition}
+\newtheorem{lem}[thm]{Lemma}
+\newtheorem{cor}[thm]{Corollary}
+\newtheorem{ax}[thm]{Axiom}
+\newtheorem{as}[thm]{Assumption}
+\theoremstyle{definition}
+\newtheorem{discussion}[thm]{Discussion}
+\newtheorem{notes}[thm]{Notes}
+\newtheorem{defn}[thm]{Definition}
+\newtheorem{exer}[thm]{Exercise}
+\newtheorem{notation}[thm]{Notation}
+\newtheorem{ex}[thm]{Example}
+\newtheorem{exs}[thm]{Examples}
+\newtheorem{rem}[thm]{Remark}
+\newtheorem{fact}[thm]{Imporant Fact}
+\newtheorem{activity}[thm]{Activity}
+\newtheorem{caution}[thm]{Caution}
+\newtheorem{openproblem}[thm]{Open Problem}
+\newtheorem{algorithm}[thm]{Algorithm}
+
+\makeatletter
+% "\@makechapterhead" applies to ordinary or numbered chapters
+\patchcmd{\@makechapterhead}{\vspace*{50\p@}}{}{}{}
+\patchcmd{\@makechapterhead}{\vskip 60\p@}{\vskip 20\p@}{}{}
+% "\@makeschapterhead" applies to "starred" or un-numbered chapters
+\patchcmd{\@makeschapterhead}{\vspace*{50\p@}}{}{}{}
+\patchcmd{\@makeschapterhead}{\vskip 40\p@}{\vskip 20\p@}{}{}
+\makeatother
+
+\raggedbottom
+\begin{document}
+\raggedbottom
+\thispagestyle{fancy}
+
+\newpage
+
+{\bf 2024}
+
+
+\newpage
+
+Q(2) (Total 20 marks)
+
+2(a) (12 marks)
+
+Use mathematical induction to show that
+
+$\sum_{r=1}^n \frac{18}{(r+1)(r+3)(r+4)} = \frac{n(n^2+9n+17)}{(n+2)(n+3)(n+4)}$
+
+for all positive integers $n$.
+
+Answer:
+
+Let P(n) be the statement: $\sum_{r=1}^n \frac{18}{(r+1)(r+3)(r+4)} = \frac{n(n^2+9n+17)}{(n+2)(n+3)(n+4)}$.
+
+Base Case: We prove the statement $P(1) : \sum_{r=1}^1 \frac{18}{(r+1)(r+3)(r+4)} = \frac{(1)((1)^2+9(1)+17)}{(1+2)(1+3)(1+4)}$.
+
+LHS $ = \sum_{r=1}^1 \frac{18}{(r+1)(r+3)(r+4)} = \frac{18}{(1+1)(1+3)(1+4)} = \frac{18}{40} = \frac{9}{20}$.
+
+RHS $ = \frac{(1)((1)^2+9(1)+17)}{(1+2)(1+3)(1+4)} = \frac{27}{60} = \frac{9}{20} = $ LHS.
+
+Hence P(1) is true.
+
+Inductive Hypothesis: Suppose that P(k) is true for some positive integer k.
+
+That is, $\sum_{r=1}^k \frac{18}{(r+1)(r+3)(r+4)} = \frac{k(k^2+9k+17)}{(k+2)(k+3)(k+4)}$.
+
+Inductive Step: We show P(k+1)  is also true.
+
+$P(k+1) : \sum_{r=1}^{k+1} \frac{18}{(r+1)(r+3)(r+4)} = \frac{(k+1)((k+1)^2+9(k+1)+17)}{(k+3)(k+4)(k+5)}$.
+
+LHS $ =  \sum_{r=1}^{k+1} \frac{18}{(r+1)(r+3)(r+4)} = \sum_{r=1}^{k}\frac{18}{(r+1)(r+3)(r+4)} + \frac{18}{(k+1)(k+3)(k+4)}$
+
+$= \frac{k(k^2+9k+17)}{(k+2)(k+3)(k+4)} + \frac{18}{(k+2)(k+4)(k+5)}$ by inductive hypothesis
+
+$= \frac{1}{(k+2)(k+4)} \cdot \left( \frac{k(k^2+9k+17)}{k+3} + \frac{18}{k+5} \right)$
+
+$= \frac{1}{(k+2)(k+4)} \cdot \left( \frac{k(k+5)(k^2+9k+17)+18(k+3)}{(k+3)(k+5)} \right)$
+
+$= \frac{1}{(k+2)(k+4)} \cdot \left( \frac{k^4+14k^3+62k^2+103k+54}{(k+3)(k+5)} \right)$
+
+$= \frac{1}{(k+2)(k+4)} \cdot \left( \frac{(k+1)(k+2)(k^2+11k+27)}{(k+3)(k+5)} \right)$
+
+$= \frac{(k+1)(k^2+11k+27)}{(k+3)(k+4)(k+5)} = \frac{(k+1)((k+1)^2+9(k+1)+17)}{(k+3)(k+4)(k+5)} = $ RHS.
+
+(Base case: 3 marks, inductive hypothesis: 2 marks, inductive step: 7 marks, award partial credit if essential steps are skipped)
+
+2(b) (8 marks) 
+
+By using the fact that $\sum_{r=1}^n \frac{18}{(r+1)(r+3)} = \frac{3n(5n+13)}{2(n+2)(n+3)}$ or otherwise, derive an expression for $\sum_{r=1}^n \frac{18}{(r+1)(r+4)}$ in the form $\frac{n(An^2+Bn+C)}{2(n+2)(n+3)(n+4)}$, where $A,B,C$ are constants to be determined.
+
+Answer:
+
+Observe that 
+
+$\frac{18}{(r+1)(r+3)} - \frac{18}{(r+1)(r+3)(r+4)} = \frac{18}{(r+1)(r+3)} \left( 1 - \frac{1}{r+4} \right)$
+
+$= \frac{18}{(r+1)(r+3)} \left( \frac{r+4-1}{r+4} \right)$
+
+$= \frac{18}{(r+1)(r+3)} \left( \frac{r+3}{r+4} \right)$
+
+$= \frac{18}{(r+1)(r+4)}$.
+
+(3 marks)
+
+Hence,
+
+$\sum_{r=1}^n \frac{18}{(r+1)(r+4)} = \sum_{r=1}^n \frac{18}{(r+1)(r+3)} - \sum_{r=1}^n \frac{18}{(r+1)(r+3)(r+4)}$ 
+
+$= \frac{3n(5n+13)}{2(n+2)(n+3)} - \frac{n(n^2+9n+17)}{(n+2)(n+3)(n+4)}$
+
+$= \frac{n}{2(n+2)(n+3)} \left( 3(5n+13) - \frac{2(n^2+9n+17)}{n+4} \right)$
+
+$= \frac{n}{2(n+2)(n+3)} \left( \frac{3(5n+13)(n+4) - 2(n^2+9n+17)}{n+4} \right)$
+
+$= \frac{n(13n^2+81n+122)}{2(n+2)(n+3)(n+4)}$
+
+Thus A=13, B=81, C=122.
+
+(5 marks)
+
+Accept Method of Difference, Accept substitution and solving of simultaneous linear equations to solve for A,B,C.
+
+\newpage
+
+Q(3) (Total 15 marks)
+
+Q(3)(a) (10 marks)
+
+Use the Euclidean Algorithm to find $d=\gcd(6528,426)$ and express $d$ as an integral linear combination of $6528$ and $426$.
+
+Answer
+
+6528 = (15)(426) + 138
+
+426 = (3)(138) + 12
+
+138 = (11)(12) + 6 
+
+12 = (2)(6)
+
+Hence, gcd(6528,426)=6
+
+(5 marks)  
+
+Using backward substitution,
+
+6 = 138 - (11)(12)
+
+= 138 - (11)(426 - (3)(138)) = (-11)(426) + (34)(138)
+
+= (-11)(426) + (34)(6528 - (15)(426)) = (34)(6528) + (-521)(426)
+
+Thus gcd(6528,426) =  (34)(6528) + (-521)(426)
+
+(5 marks)  
+
+Q(3)(b) (5 marks)
+
+Let $a = 6528 \times 17 \times 29$ and let $b = 426 \times 29$. State the value of $e=\gcd(a,b)$ and use the result found in (a) to express $e$ as an integral linear combination of $a$ and $b$.
+
+Answer
+
+Since 426 is neither divisible by the prime numbers 17, 29, and 6528 is not divisible by 29, so gcd(a,b) = (6)(29) = 174.
+
+(2 marks)
+
+Since (34)(6528) + (-521)(426) = 6, so
+
+(2)(6528)(17) + (-521)(426) = 6.
+
+Hence (2)(6528)(17)(29) + (-521)(426)(29) = (6)(29) = 174.
+
+Thus, gcd(a,b) = 2a - 521b.
+
+(3 marks)
+
+\newpage
+
+Q(4) (Total 15 marks)
+
+Q(4)(a) (10 marks)
+
+Let $\mathbb{N}^*$ denote the set containing the non-negative integers, and let $\mathbb{N}$ denote the set containing the positive integers.
+
+Define a function $f : \mathbb{N}^* \rightarrow \mathbb{N}$,
+
+$f(x) = \begin{cases} 2x^3 + x + 1 \ , & \ x \ \text{odd} \\ x^2 + 2 \ , & \ x \ \text{even} \end{cases}$
+
+Determine with justification where or not $f$ is injective, and whether or not $f$ is surjective.
+
+Answer
+
+When $x \equiv 0 \mod 3$, $2x^3 + x + 1 \equiv 0+0+1 \equiv 1 \mod 3$ and $x^2 + 2 \equiv 2 \mod 3$.
+
+When $x \equiv 1 \mod 3$, $2x^3 + x + 1 \equiv 2+1+1 \equiv 1 \mod 3$ and $x^2 + 2 \equiv 0 \mod 3$.
+
+When $x \equiv 2 \mod 3$, $2x^3 + x + 1 \equiv 16+2+1 \equiv 1 \mod 3$ and $x^2 + 2 \equiv 0 \mod 3$.
+
+Therefore, it is impossible for f(a)=f(b) if a,b are of different parity (ie, one even and one odd).
+
+Suppose that $2a^3 + a + 1 = 2b^3 + b + 1$ for a,b odd and positive. 
+
+Then $2(a^3-b^3) + (a-b) = 0$, so $2(a-b)(a^2+ab+b^2) + (a-b) = 0$, so $(a-b)(2a^2+2ab+2b^2+1)=0$. 
+
+Since $2a^2+2ab+2b^2+1 > 0$, thus a=b.
+
+Suppose that $a^2 + 2 = b^2 + 2$ for a,b even and non-negative.
+
+Then $a^2 - b^2 = 0$, so $(a-b)(a+b) = 0$.
+
+Since $a+b > 0$, and a,b non-negative, so so a=b.
+
+Hence f is an injective function
+
+(7 marks)
+
+On the other hand, since $2x^3 + x + 1$ is even for any odd integer x, and $x^2+2$ is even for any even integer x, so f(x) is always even for any integer x. It follows that f is not a surjective function because the odd positive integers have no pre-images under f.
+
+(3 marks)
+
+Q(4)(b) (5 marks)
+
+Define an equivalence relation 
+
+$R = \{ (a,a), (a,b), (b,a) (b,b), (c,c), (c,d), (d,c), $
+
+$(c,e), (e,c), (d,d), (d,e), (e,d), (e,e), (f,f) \}$
+
+Describe the equivalence classes of $R$.
+
+Answer
+
+There are 3 equivalence classes
+
+$\{a,b\}$
+
+$\{c,d,e\}$
+
+$\{ f \}$
+
+(5 marks)
+
+\newpage
+
+Q(5) (Total 15 marks)
+
+Q(5)(a) (10 marks)
+
+Define the universal set to be $S = \{ x \in \mathbb{Z} \ : \ 1 < x < 26 \}$. Define also the sets
+
+$A = \{ y \in S \ : \ y \ \text{is prime} \ \}$
+
+$B = \{ y \in S \ : \ y \ \text{is a factor of} \ 24 \}$
+
+$C = \{ y \in S \ : \ y = 4k+1 \ \text{for some integer} \ k \}$
+
+Answer
+
+$A = \{ 2,3,5,7,11,13,17,19,23 \}$
+
+$B = \{ 2,3,4,6,8,12,24 \}$
+
+$C = \{ 5,9,13,17,21,25 \}$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\newpage 
+
+Q(4) (Total 15 marks)
+
+4(a) (10 marks)
+
+Use mathematical induction to show that
+
+$\sum_{r=1}^n \frac{4(r-1)}{r(r+1)(r+2)} = \frac{n(n-1)}{(n+1)(n+2)}$
+
+for all positive integers $n$.
+
+Answer:
+
+Let P(n) be the statement: $\sum_{r=1}^n \frac{4(r-1)}{r(r+1)(r+2)} = \frac{n(n-1)}{(n+1)(n+2)}$.
+
+Base Case: We prove the statement $P(1) : \sum_{r=1}^1 \frac{4(r-1)}{r(r+1)(r+2)} = \frac{(1)(1-1)}{(1+1)(1+2)}$.
+
+LHS $ =\sum_{r=1}^1 \frac{4(r-1)}{r(r+1)(r+2)} = \frac{4(1-1)}{(1)(1+1)(1+2)} = 0$.
+
+RHS $ = \frac{(1)(1-1)}{(1+1)(1+2)} = 0 = $ LHS.
+
+Hence P(1) is true.
+
+Inductive Hypothesis: Suppose that P(k) is true for some positive integer k.
+
+That is, $\sum_{r=1}^k \frac{4(r-1)}{r(r+1)(r+2)} = \frac{k(k-1)}{(k+1)(k+2)}$.
+
+Inductive Step: We show P(k+1)  is also true.
+
+$P(k+1) : \sum_{r=1}^{k+1} \frac{4(r-1)}{r(r+1)(r+2)} = \frac{(k+1)(k)}{(k+2)(k+3)}$.
+
+LHS $ = \sum_{r=1}^{k+1} \frac{4(r-1)}{r(r+1)(r+2)}  = \sum_{r=1}^{k} \frac{4(r-1)}{r(r+1)(r+2)} + \frac{4(k)}{(k+1)(k+2)(k+3)}$
+
+$= \frac{k(k-1)}{(k+1)(k+2)} + \frac{4(k)}{(k+1)(k+2)(k+3)}$ by inductive hypothesis
+
+$= \frac{k}{(k+1)(k+2)} \cdot \left( (k-1) + \frac{4}{k+3} \right)$
+
+$= \frac{k}{(k+1)(k+2)} \cdot \left( \frac{(k-1)(k+3)+4}{k+3} \right)$
+
+$= \frac{k}{(k+1)(k+2)} \cdot \left( \frac{k^2+2k+1}{k+3} \right)$
+
+$= \frac{k}{(k+1)(k+2)} \cdot \left( \frac{(k+1)^2}{k+3} \right)$
+
+$= \frac{(k+1)(k)}{(k+2)(k+3)} = $ RHS.
+
+(Base case: 3 marks, inductive hypothesis: 2 marks, inductive step: 5 marks, award zero or partial credit if essential steps are skipped)
+
+4(b) (5 marks) 
+
+Use the result of part (a) to show that
+
+$\sum_{r=3}^n \frac{4(r-2)}{r^3} < \frac{(n-1)(n-2)}{n(n+1)}$
+
+for all positive integers $n \geq 3$.
+
+Answer:
+
+Since 
+
+$\frac{4(r-2)}{r^3} < \frac{4(r-2)}{(r^2-1)(r)} = \frac{4(r-2)}{(r-1)r(r+1)}$ for any integer $r \geq 3$, so
+
+$\sum_{r=3}^n \frac{4(r-2)}{r^3} < \sum_{r=3}^n \frac{4(r-2)}{(r-1)r(r+1)}$
+
+$ = \sum_{r=2}^{n-1} \frac{4(r-1)}{r(r+1)(r+2)} = \frac{(n-1)(n-2)}{n(n+1)}$ for integer $n \geq 3$.
+
+
+
+
+
+
+
+\newpage
+
+Q(3) (Total 16 marks)
+
+3(a) (10 marks)
+
+Use the Euclidean Algorithm to find $d=\gcd(16280,7536)$ and express $d$ as an integral linear combination of $16280$ and $7536$.
+
+Answer:
+
+$16280 = 2 \times 7536 + 1208$
+
+$7536 = 6 \times 1208 + 288$
+
+$1208 = 4 \times 288 + 56$
+
+$288 = 5 \times 56 + 8$
+
+$56 = 7 \times 8$
+
+Hence, gcd(16280,7536) = 8.
+
+(5 marks)
+
+Using backward substitution,
+
+$8 = 288 - 5(56)$
+
+$= 288 - 5(1208-4(288)) = (-5)(1208)+21(288)$
+
+$= (-5)(1208)+21(7536-6(1208)) = (21)(7536) + (-131)(1208)$
+
+$= (21)(7536) + (-131)(16280-2(7536)) = (-131)(16280)+(283)(7536)$
+
+Hence, gcd(16280,7536) = 8 = (-131)(16280)+(283)(7536).
+
+(5 marks)
+
+3(b) (6 marks)
+
+The 1st, 7th, and 25th term of an arithmetic sequence are consecutive terms of a geometric sequence. Find the common ratio of the geometric sequence if its terms are all distinct.
+
+Answer:
+
+Let a be the first term of both the arithmetic and geometric sequence, let d be the common difference of the arithmetic sequence, and let r be the common ratio of the geometric sequence. Since the terms of the geometric sequence are all distinct, a is non-zero and r is not equal to 1.
+
+Then $a + 6d = ar$ and $a + 24d = ar^2$
+
+From the first equation, $d = \frac{ar-a}{6}$.
+
+Substituting into the second equation,
+
+$a+24(\frac{ar-a}{6}) = ar^2 \ \longrightarrow \ a + 4ar - 4a = ar^2$ 
+
+$\longrightarrow \  ar^2 - 4ar + 3a = 0 \ \longrightarrow \ r^2 - 4r + 3 = 0 \ \longrightarrow  \ (r-1)(r-3)=0$
+
+Since r is not equal to 1, so r=3.
+ 
+(0-3 marks: major errors made, 4-5 marks: only minor mistakes made)
+
+
+
+
+
+
+
+\newpage
+
+Q(5) (Total 18 marks)
+
+5(a) (8 marks)
+
+Define a function $f : \mathbb{Z} \rightarrow \mathbb{Z}$, $f(n) = 3n^2 + 7n + 5$. Show that $f$ is not surjective and determine with justification whether or not $f$ is injective.
+
+Answer:
+
+We claim there is no integer n such that f(n)=-1. This is because if f(n)=-1, then $3n^2 + 7n + 6=0$. However this quadratic equation has no real roots because its discriminant is $7^2 - 4(3)(6) = -23$ which is negative. Hence, f is not surjective.
+
+(3 marks)
+
+Suppose that a and b are integers such that f(a)=f(b).
+
+Then $3a^2 + 7a + 5 = 3b^2 + 7b + 5 \ \longrightarrow  \ 3(a^2-b^2) = -7(a-b)$
+
+$\longrightarrow \ 3(a+b)(a-b) = -7(a-b)$
+
+Assume that a is not equal to b. Then a-b is non-zero so by cancellation, we obtain a+b = -7/3. However, this leads to a contradiction because there cannot be integers a and b whose sum is not an integer. 
+
+Thus, we conclude that a and b are equal and so we have proven that f is injective. 
+
+(5 marks)
+
+5(b) (10 marks)
+
+Let $A = \{ n \in \mathbb{Z} \ : \ -10 \leq n \leq 10 \}$. Define a relation $R$ on $A$ by the following rule:
+
+$(a,b) \in R \ \Leftrightarrow \ a^3+b^3 \ \text{is even}$
+
+Show that $R$ is an equivalence relation on $A$ and describe the equivalence classes of $R$ by listing down the elements of each class.
+
+Answer:
+
+For any integer a, aRa because $a^3+a^3 = 2a^3$ is even. Hence R is reflexive
+
+Let a,b be integers in A such that aRb. Then $a^3+b^3$ is even, which trivially implies $b^3+a^3$ is also even, and thus bRa. Hence, R is symmetric.
+
+Suppose a,b,c are integers in A such that aRb and bRC. Then $a^3+b^3$ is even and $b^3+c^3$ is even. It follows that $a^3+b^3+b^3+c^3 = a^3+2b^3+c^3$ is also even, and so $a^3+c^3$ is even because $2b^3$ is even for any integer b. Thus aRc. We have therefore shown R is transitive.
+
+Since R is reflective, symmetric, and transitive, we conclude that R is an equivalence relation on A.
+
+(6 marks)
+
+For any integer n, $n^3$ is even if and only if n is even. Thus, $n^3+m^3$ is even if and only if both n,m are even, or both n,m are odd. Hence, there are two equivalence classes: the class containing the even integers in A, 
+
+$\{-10,-8,-6,-4,-2,0,2,4,6,8,10\}$
+
+and the class containing the odd integers in A,
+
+$\{ -9, -7, -5, -3, -1, 1, 3, 5, 7, 9\}$
+
+(4 marks)
+
+
+
+
+
+
+
+
+\newpage
+
+Q(6) (Total 15 marks)
+
+6(a) (9 marks)
+
+Let
+
+$A = \{ -5, -4, -2, 1, 2, 3, 6, 7, 9, 10, 11, 12, 15 \}$
+
+$B = \{ -6, -4, -3, -2, -1, 0, 1, 3, 4, 6, 9, 11, 14, 17, 18 \}$
+
+$C = \{ -7, -3, 0, 1, 3, 6, 7, 10, 11, 12, 13, 14, 17 \}$
+
+$D = \{ 0, 1, 2, 3, 5, 6, 7, 11, 13, 14, 15, 16, 17  \}$
+
+$E = \{ -3, 0, 1, 3, 5, 7, 9, 10 \}$
+
+Determine the sets $(A \cup B) \cap C$, $(A \setminus B) \cap D$, $(B \bigtriangleup C) \bigtriangleup E$.
+
+Answer:
+
+$(A \cup B) \cap C = \{ -3, 0, 1, 3, 6, 7, 10, 11, 12, 14, 17 \}$
+
+(3 marks)
+
+$(A \setminus B) \cap D = \{ 2, 7, 15 \}$
+
+(3 marks)
+
+$(B \bigtriangleup C) \bigtriangleup E = \{-7, -6, -4, -3, -2, -1, 0, 1, 3, 4, 5, 12, 13, 18\}$.
+
+(3 marks)
+
+6(b) (6 marks)
+
+A group of 100 people were asked whether they liked the colours black, green, and red. Each person was allowed to select any number of colours they wished, or none of them. The survey revealed that 36 of them liked black, 12 of them liked green, and 18 of them liked red. There were 4 people who liked all three colours, and there were 10 people who liked none of the three colours. How many people liked exactly two colours out of three?
+
+Answer:
+
+Let A be the set of people who like black
+
+Let B be the set of people who like green.
+
+Let C be the set of people who like red.
+
+Then $n(A \cup B \cup C) = n(A)+n(B)+n(C)$
+
+$-n(A \cap B)-n(A \cap C)-n(B \cap C)+n(A \cap B \cap C)$
+
+so $n(A \cup B \cup C) = 36+12+18-n(A \cap B)-n(A \cap C)-n(B \cap C)+4$
+
+$= 62-n(A \cap B)-n(A \cap C)-n(B \cap C)$
+
+Since $100 = n(A \cup B \cup C)+n(A' \cap B' \cap C')$, so
+
+$n(A \cup B \cup C) = 100-10 = 90$.
+
+so $90=62-n(A \cap B)-n(A \cap C)-n(B \cap C)$
+
+thus $n(A \cap B)+n(A \cap C)+n(B \cap C)=90-62=28$.
+
+It follows that 28 people like exactly two of the three colours.
+
+(0-3 marks: major errors made, 4-5 marks: only minor mistakes made)
+
+
+
+
+
+
+
+
+
+
+
+\newpage
+
+Q(1) (18 marks)
+
+1(a) (8 marks)
+
+Consider the following argument.
+
+$(\sim p) \leftrightarrow (q \vee r)$
+
+$(p \wedge (\sim q)) \rightarrow r$
+
+$\therefore \ (\sim p) \vee q$
+
+Employ a truth table to determine whether or not the argument is valid:
+
+Answer:
+
+\begin{center}
+	\begin{tabular}{|ccc|c|c|c|c|}
+		\hline
+		$p$ & $q$ & $r$ &$(\sim p) \leftrightarrow (q \vee r)$ & $(p \wedge (\sim q)) \rightarrow r$ & $(\sim p) \vee q$ & Critical Row \\
+		\hline
+		T & T & T & F & T & T & No \\
+		\hline
+		T & T & F & F & T & T & No \\
+		\hline
+		T & F & T & F & T & F & No \\
+		\hline
+		T & F & F & T & F & F & No \\
+		\hline
+		F & T & T & T & T & T & Yes \\
+		\hline
+		F & T & F & T & T & T & Yes \\
+		\hline
+		F & F & T & T & T & T & Yes \\
+		\hline
+		F & F & F & F & T & T & No \\
+		\hline  
+	\end{tabular} 
+\end{center}
+
+Since the conclusion is true in every critical row, the argument is valid.
+
+(0-4 marks: major errors made, 5-7 marks: only minor mistakes made)
+
+1(b) (4 marks)
+
+Let $A,B,C$ be subsets of a universal set $\Omega$.
+
+Let $p(x)$ denote the predicate $x \in A$, let $q(x)$ denote the predicate $x \in B$, and let $r(x)$ denote the predicate $x \in C$, where the variable $x$ in each predicate is an element of $\Omega$.
+
+Draw a Venn Diagram to illustrate the statement
+
+$\forall x \in \Omega \ (p(x) \wedge (\sim q(x))) \rightarrow r(x)$
+
+Answer
+
+1(c) (6 marks)
+
+Use the rules of inference in propositional logic to show that the following argument is valid.
+
+$p \wedge r$
+
+$(p \wedge q) \rightarrow (\sim r)$
+
+$\therefore \ \sim q$
+
+Answer
+
+(1) $p \wedge r$ -- premise
+
+(2) $r$ -- Specialization from (1)
+
+(3) $(p \wedge q) \rightarrow (\sim r)$ -- premise
+
+(4) $\sim (p \wedge q)$ -- Modus Tollens from (2) and (3)
+
+(5) $(\sim p) \vee (\sim q)$ -- logically equivalent to (4)
+
+(6) $p$ -- Specialization from (1)
+
+(7) $\sim q$ -- Elimination from (5) and (6) 
+
+(0-3 marks: major errors made, 4-5 marks: only minor mistakes made)
+
+
+\newpage
+
+Q(2) (18 marks)
+
+(a)
+
+Let $P(x,y)$ denote the predicate
+
+$(|3x^2-4y^2| \ \text{and} \ |4x-3y| \ \text{both prime numbers}) \ \rightarrow \ (x=1 \vee y=1)$
+
+where $|z|$ denotes the absolute value of $z$.
+
+(a)(i) (6 marks)
+
+Suppose that $D = \{ 1,2,3 \}$. If the ordered pair of variables $(x,y)$ is restricted to the domain $D \times D$, find the truth set of the predicate $P(x,y)$, justifying your answer.
+
+Answer
+
+\begin{center}
+	\begin{tabular}{|c|c|c|c|}
+		\hline
+ 		$x$ & $y$ & $|3x^2-4y^2|$ & $|4x-3y|$ \\
+ 		\hline
+ 		1 & 1 & 1 & 1 \\
+ 		\hline
+ 		1 & 2 & 13 & 2 \\
+ 		\hline
+ 		2 & 1 & 8 & 5 \\
+ 		\hline
+ 		1 & 3 & 33 & 5 \\
+ 		\hline
+ 		2 & 2 & 4 & 2 \\
+ 		\hline
+ 		3 & 1 & 23 & 9 \\
+ 		\hline  
+	\end{tabular} 
+\end{center}
+
+Since the predicate P(x,y) holds for all (x,y) in the specified domain, it follows that the truth set is $D \times D$ itself.
+
+(0-3 marks: major errors made, 4-5 marks: only minor mistakes made)
+
+(a)(ii) (4 marks)
+
+If the ordered pair of variables $(x,y)$ has domain $\mathbb{N} \times \mathbb{N}$, give a counter-example to show that the following statement is false.
+
+$\forall x \in \mathbb{N} \ \forall y \in \mathbb{N} \ P(x,y)$
+
+Answer
+
+A counter-example is x=3, y=5, which makes
+
+$|3x^2-4y^2| = 73$ prime and
+
+$|4x-3y| = 3$ prime.
+
+(b) (8 marks)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\newpage
+
+
+
+
+Q(1) (20 marks)
+
+1(a) (8 marks)
+
+Employ a truth table to determine whether or not the following argument is valid:
+
+$(p \wedge q) \longrightarrow \sim r$
+
+$r \longrightarrow (p \vee q)$
+
+$\therefore \ p \vee r \vee \sim q$
+
+Answer:
+
+\begin{center}
+	\begin{tabular}{|ccc|c|c|c|}
+		\hline
+		$p$ & $q$ & $r$ &$(p \wedge q) \longrightarrow \sim r$ & $r \longrightarrow (p \vee q)$ & $p \vee r \vee \sim q$ \\
+		\hline
+		F & F & F & T & T & T \\
+		\hline
+		F & F & T & T & F & T \\
+		\hline
+		F & T & F & T & T & F(*) \\
+		\hline
+		F & T & T & T & T & T \\
+		\hline
+		T & F & F & T & T & T \\
+		\hline
+		T & F & T & T & T & T \\
+		\hline
+		T & T & F & T & T & T \\
+		\hline
+		T & T & T & F & T & T \\
+		\hline  
+	\end{tabular} 
+\end{center}
+
+There is one critical row (indicated by (*)) in which the conclusion is false. Hence the argument is NOT valid.
+
+(0-4 marks: major errors made, 5-7 marks: only minor mistakes made)
+
+1(b) (8 marks)
+
+Construct a sequence of logical equivalences to show that
+
+$\sim ((p \longrightarrow \sim s) \longrightarrow (q \wedge s))$
+
+is logically equivalent to
+
+$(p \vee q) \longrightarrow \sim s$
+
+Answer:
+
+$\sim ((p \longrightarrow \sim s) \longrightarrow (q \wedge s))$
+
+$\equiv \sim (\sim (p \longrightarrow \sim s) \vee (q \wedge s))$
+
+$\equiv \sim (\sim (p \longrightarrow \sim s)) \wedge \sim (q \wedge s)$ (de Morgan's law)
+
+$\equiv (p \longrightarrow \sim s) \wedge \sim (q \wedge s)$ (double negation law)
+
+$\equiv (\sim p \vee \sim s) \wedge \sim (q \wedge s)$ 
+
+$\equiv (\sim p \vee \sim s) \wedge (\sim q \vee \sim s)$ (de Morgan's law)
+
+$\equiv (\sim p \wedge \sim q) \vee \sim s$ (distributive law)
+
+$\equiv \sim (p \vee q) \vee \sim s$ (de Morgan's law)
+
+$\equiv (p \vee q) \longrightarrow \sim s$
+
+(0-4 marks: major errors made, 5-7 marks: only minor mistakes made or reasonings not written)
+
+1(c) (4 marks)
+
+Let $p$ denote the statement "Darine goes to college". Let $q$ denote the statement "Darine studies mathematics". Let $r$ denote the statement "Mathematics is a difficult subject". Let $s$ denote the statement "Darine likes studying difficult subjects".
+
+Using only the symbols $p,q,r,s$ as well as brackets and logical connectives, write compound statements, one for each of the following two English sentences, in a manner that best approximates their meaning:
+
+"Although Darine likes studying difficult subjects, she studies mathematics, which is not a difficult subject."
+
+"If Darine does not like studying difficult subjects, then if mathematics is a difficult subject, Darine will neither study mathematics nor go to college."
+
+Answer:
+
+(i) $s \wedge q \wedge \sim r$
+
+(ii) $\sim s \longrightarrow (r \longrightarrow (\sim q \wedge \sim p))$
+
+(2 marks each, Accept any logically equivalent statements.)
+
+\newpage
+
+Q(2) (15 marks)
+
+2(a) (3 marks)
+
+Give the negation of the following statement such that the $\wedge$ connective does not appear:
+
+$\forall x \in \mathbb{Q} \ \forall y \in \mathbb{N} \ \exists z \in \mathbb{Z} \ (x<y \vee y<z) \wedge (x+y=z)$
+
+Answer:
+
+$\exists x \in \mathbb{Q} \ \exists y \in \mathbb{N} \ \forall z \in \mathbb{Z} \ \sim (x<y \vee y<z) \vee (x+y \neq z)$
+
+2(b)  (4 marks)
+
+Let $D = \{ x \in \mathbb{Z} \ : \ -5 \leq x \leq 10 \}$. Suppose that the variable $x$ has domain $D$. Determine the truth set of the predicate
+
+$x > 0 \ \longrightarrow \ (\exists y \in \mathbb{N} \ \exists z \in \mathbb{N} \ (x=y^z \wedge z>1) )$
+
+Answer:
+
+$\{ -5,-4,-3,-2,-1,0,1,4,8,9 \}$
+
+2(c) (8 marks)
+
+Let $P,Q,R,S$ denote predicates. Use the Rules of Inference to show that the following argument is valid:
+
+$\forall x \ \sim P(x) \wedge \sim Q(x)$
+
+$\exists x \ \sim R(x) \longrightarrow Q(x)$
+
+$\forall x \ S(x)$
+
+$\therefore \ \exists x \ R(x) \wedge S(x)$ 
+
+Answer:
+
+(1) $\forall x \ \sim P(x) \wedge \sim Q(x)$ (premise)
+
+(2) $\sim P(a) \wedge \sim Q(a)$ for all $a$ (UI from (1))
+
+(3) $\sim Q(a)$ for all $a$ (specialization using (2))
+
+(4) $\exists x \ \sim R(x) \longrightarrow Q(x)$ (premise)
+
+(5) $\sim R(b) \longrightarrow Q(b)$ for some $b$ (EI from (4))
+
+(6) $\sim (\sim R(b))$ (Modus Tollens using (3) and (5))
+
+(7) $R(b)$ (double negation using (6))
+
+(8) $\forall x \ S(x)$ (premise)
+
+(9) $S(c)$ for all $c$ (UI from (8))
+
+(10) $R(b) \wedge S(b)$ (conjunction from (7) and (9))
+
+(11) $\exists x \ R(x) \wedge S(x)$ (EG from (10))
+
+(0-4 marks: major errors made, 5-7 marks: only minor mistakes made or reasonings not written)
+
+
+
+\newpage
+
+Q(3) (15 marks)
+
+3(a) (8 marks)
+
+Use the Euclidean Algorithm to find $d=\gcd(4318,816)$ and express $d$ as an integral linear combination of $4318$ and $816$.
+
+Answer:
+
+$4318 = 5 \times 816 + 238$
+
+$816 = 3 \times 238 + 102$
+
+$238 = 2 \times 102 + 34$
+
+$102 = 3 \times 34$
+
+Hence, $\gcd(4318,816) = 34$.
+
+(4 marks)
+
+Using backward substitution,
+
+$34 = 238 - 2(102)$
+
+$= 238 - 2(816 - 3(238)) = (-2)(816) + (7)(238)$
+
+$= (-2)(816) + (7)(4318 - 5(816)) = (7)(4318) + (-37)(816)$
+
+Hence, $34 = (7)(4318) + (-37)(816)$.
+
+(4 marks)
+
+3(b) (7 marks)
+
+Let $a,b$ be positive integers. Use either the method of contradiction or contraposition to show that if $a+b$ and $a^3+b^3$ are rational numbers, then $ab$ is also a rational number.
+
+Answer:
+
+(A proof by contradiction)
+
+Suppose that $a,b$ are positive integers such that  $a+b$ and $a^3+b^3$ are rational numbers.
+
+Suppose instead that $ab$ is an irrational number.
+
+Since $(a+b)^3 = a^3 + 3a^2 b + 3ab^2 + b^3$,
+
+$(a+b)^3 = a^3 + b^3 + 3ab(a+b)$.
+
+Since $ab$ has been assumed to be irrational, $3ab(a+b)$ is also irrational because it is the product of an irrational number $ab$ with a positive rational number $3(a+b)$. 
+
+Therefore,  $a^3 + b^3 + 3ab(a+b)$ is also irrational because it is the sum of a rational and an irrational number. 
+
+It follows that $(a+b)^3$ is also irrational. However, since $a+b$ is rational, $(a+b)^3$ must also be rational, and thus we obtain a contradiction.
+
+(0-3 marks: major errors made, 4-6 marks: only minor mistakes made or did not properly phrase the proof in the form of contradiction or contraposition)
+
+\newpage
+
+Q(4) (20 marks)
+
+4(a) (14 marks)
+
+Use mathematical induction to show that
+
+$\sum_{r=1}^n \frac{18}{r(r+3)} = \frac{n(11n^2 + 48n + 49)}{(n+1)(n+2)(n+3)}$
+
+for all positive integers $n$.
+
+Answer:
+
+Let $P(n)$ be the statement: $\sum_{r=1}^n \frac{18}{r(r+3)} = \frac{n(11n^2 + 48n + 49)}{(n+1)(n+2)(n+3)}$.
+
+Base Case: We prove the statement $P(1) : \sum_{r=1}^1 \frac{18}{r(r+3)} = \frac{(1)(11(1)^2 + 48(1) + 49)}{(1+1)(1+2)(1+3)}$.
+
+LHS $ = \sum_{r=1}^1 \frac{18}{r(r+3)} = \frac{18}{(1)(1+3)} = \frac{18}{4} = \frac{9}{2}$.
+
+RHS $ = \frac{(1)(11(1)^2 + 48(1) + 49)}{(1+1)(1+2)(1+3)} = \frac{108}{24} = \frac{9}{2} = $ LHS.
+
+Hence $P(1)$ is true.
+
+Inductive Hypothesis: Suppose that $P(k)$ is true for some positive integer $k$.
+
+That is, $\sum_{r=1}^k \frac{18}{r(r+3)} = \frac{k(11k^2 + 48k + 49)}{(k+1)(k+2)(k+3)}$.
+
+Inductive Step: We show $P(k+1)$  is also true.
+
+$P(k+1) : \sum_{r=1}^{k+1} \frac{18}{r(r+3)} = \frac{(k+1)(11(k+1)^2 + 48(k+1) + 49)}{(k+2)(k+3)(k+4)}$.
+
+LHS $ = \sum_{r=1}^{k+1} \frac{18}{r(r+3)}  = \sum_{r=1}^{k} \frac{18}{r(r+3)} + \frac{18}{(k+1)(k+4)}$
+
+$=  \frac{k(11k^2 + 48k + 49)}{(k+1)(k+2)(k+3)} + \frac{18}{(k+1)(k+4)}$ by inductive hypothesis
+
+$= \frac{1}{k+1} \cdot \left( \frac{k(11k^2 + 48k + 49)}{(k+2)(k+3)} + \frac{18}{k+4}  \right)$
+
+$= \frac{1}{k+1} \cdot \frac{k(11k^2 + 48k + 49)(k+4) + 18(k+2)(k+3)}{(k+2)(k+3)(k+4)}$
+
+$= \frac{1}{k+1} \cdot \frac{11 k^4 + 92 k^3 + 259 k^2 + 286 k + 108}{(k+2)(k+3)(k+4)}$
+
+$= \frac{1}{k+1} \cdot \frac{(k + 1) (11 k^3 + 81 k^2 + 178 k + 108)}{(k+2)(k+3)(k+4)}$
+
+$= \frac{11 k^3 + 81 k^2 + 178 k + 108}{(k+2)(k+3)(k+4)}$
+
+$= \frac{(11 k^2 + 70 k + 108)(k + 1)}{(k+2)(k+3)(k+4)}$
+
+$= \frac{(k + 1)(11(k+1)^2 + 48(k+1) + 49)}{(k+2)(k+3)(k+4)} = $ RHS.
+
+(Base case: 4 marks, inductive hypothesis: 2 marks, inductive step: 8 marks, award zero or partial credit if essential steps are skipped)
+
+4(b) (6 marks) 
+
+Use the result given in part (a) to evaluate
+
+$\sum_{r=3}^{20} \frac{18}{(r+1)(r+4)}$.
+
+You may give your answer accurate to 3 decimal places.
+
+Answer:
+
+$\sum_{r=3}^{20} \frac{18}{(r+1)(r+4)} = \sum_{r=4}^{21} \frac{18}{r(r+3)}$
+
+$= \sum_{r=1}^{21} \frac{18}{r(r+3)} - \sum_{r=1}^{3} \frac{18}{r(r+3)}$
+
+$= \frac{(21)(11(21)^2 + 48(21) + 49)}{(22)(23)(24)} - \frac{(3)(11(3)^2 + 48(3) + 49)}{(4)(5)(6)} $
+
+$=  14757/5060 = 2.916$ 
+
+\newpage
+ 
+Q(5) (16 marks)
+
+5(a) (6 marks)
+
+Let 
+
+$A = \{ -3, -2, 0, 1, 3, 4, 6, 7 \}$ 
+
+$B = \{ -4, -3, -2, 1, 2, 3, 4, 6, 8, 9, 10 \}$
+
+$C = \{ -1, 0, 1, 3, 5, 7, 8, 11, 12 \}$
+
+Determine the sets $(A \cap B) \cup C$, and $(A \bigtriangleup B) \bigtriangleup C$
+
+Answer:
+
+$(A \cap B) \cup C = \{ -3, -2, -1, 0, 1, 3, 4, 5, 6, 7, 8, 11, 12 \}$
+
+$(A \bigtriangleup B) \bigtriangleup C = \{ -4, -1, 1, 2, 3, 5, 9, 10, 11, 12 \}$
+
+(3 marks each)
+
+5(b)  
+
+Let $n(P)$ denote the number of elements in the set $P$. Suppose that $A,B,C$ are subsets of $S = \{x \in \mathbb{N} \ : \ 1 \leq x \leq 300 \}$. Suppose that $n(A) = 115$, $n(B) = 120$, $n(C) = 97$, $n(A \cap B) = 35$, $n(A \cap C) = 27$, $n(A \cap B \cap C) = 15$. Let $P'$ denote the set $S \setminus P$, the set of elements in $S$ but not in $P$.
+
+5b(i)  (3 marks)
+
+Show that $n(A \cap B' \cap C') = 68$.
+
+Answer:
+
+$n(A \cap B' \cap C) = n(A \cap C) - n(A \cap B \cap C) = 27 -15 = 12$.
+
+Therefore,
+
+$n(A \cap B' \cap C') = n(A) - n(A \cap B) - n(A \cap B' \cap C) = 115 - 35 - 12 = 68$.
+
+5b(ii) (7 marks) 
+
+Determine the minimum and maximum possible number of elements in the set $A' \cap B' \cap C'$, and state the conditions under which the minimum value and the maximum value occurs respectively.
+
+Answer:
+
+Let $x  = n(A' \cap B \cap C)$.
+
+Then $n(A' \cap B \cap C') = n(B) - n(A \cap B) - n(A' \cap B \cap C) = 120 - 35 - x = 85-x$ and
+
+$n(A' \cap B' \cap C) = n(C) - n(A \cap C) -  n(A' \cap B \cap C) = 97 - 27 - x = 70-x$ and
+
+$n(A' \cap B' \cap C') = n(S) - n(A) - n(A' \cap B \cap C) - n(A' \cap B \cap C') - n(A' \cap B' \cap C)$
+
+$= 300 - 115 - x - (85-x) - (70-x) = 30+x$.
+
+This information is depictcted in the following Venn Diagram.
+
+Since $x \geq 0$, $85-x \geq 0$, and $70-x \geq 0$, it follows that
+
+$0 \leq x \leq 70$ and $0 \leq x \leq 85$. 
+
+Since the first condition supercedes the second, we conclude that 
+
+$0 \leq x \leq 70$.
+
+Hence the min and max value of $n(A' \cap B' \cap C')$ is the min and max value of $x+30$, which is 30 and 100 respectively. They occur respectively when $A' \cap B \cap C = \emptyset$, equivalently, $B \cap C \subseteq A$, and when $A' \cap B' \cap C = \emptyset$, equivalently, when $C \subseteq A \cup B$.
+
+
+\newpage
+
+Q(6) (14 marks)
+
+6(a) (8 marks)
+
+Define a function $f : \mathbb{R} \rightarrow \mathbb{R}$, $f(x) = \frac{x^3+1}{x^4+2}$. Show that the function $f$ is not surjective, and determine whether or not it is injective.
+
+Answer:
+
+$|x^3+1| \leq |x|^3 + 1$ for all $x$ by the triangle inequality and by the property of the absolute value operator.
+
+$x^4 +2 \geq x^4$ and $x^4 +2 \geq 2$  for all $x$ also by the triangle inequality and using the fact that $x^4$ is nonnegative. Hence
+
+$\left| \frac{x^3+1}{x^4+2} \right| \leq \frac{|x|^3 + 1}{x^4} = \frac{|x|^3}{x^4} + \frac{1}{x^4} = \frac{1}{|x|}  +  \frac{1}{x^4} \leq 1+1=2$ for all $x$ satisfying $|x| \geq 1$, and
+
+$\left| \frac{x^3+1}{x^4+2} \right| \leq \frac{|x|^3 + 1}{2} = \frac{|x|^3}{2} + \frac{1}{2} \leq \frac{1}{2} + \frac{1}{2} = 1$ for all $x$ satisfying $|x| \leq 1$.
+
+It follows that $|f(x)| \leq 2$ for all $x$, and so $f$ is not surjective, because, for instance, there is no $x$ such that $f(x)=3$.
+
+Since $f(0) = f(2) = 1/2$, $f$ is not injective.
+
+(5 marks for surjective, 3 marks for injective)
+
+6(b) (6 marks)
+
+Define a relation $R$ on the set $\{1,2,3,4,5,6\}$ as follows:
+
+$R = \{(1,2), (2,1), (1,1), (2,2), (3,3), (4,4), (4,5), (5,4), (4,6), (6,4)\}$ 
+
+Determine whether $R$ is reflexive, where $R$ is symmetric, and whether $R$ is transitive.
+
+Answer:
+
+$R$ is not reflexive because for instance, $(5,5) \notin R$.
+
+$R$ symmetric.
+
+However, $R$ is not transitive, because, for instance $(6,4) \in R$ and $(4,5) \in R$, but $(6,5) \notin R$.
+
+(2 marks each for reflexive, symmetric and transitive)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\newpage 
+
+
+Q(1) (20 marks)
+
+1(a) (9 marks)
+
+Define a function $f(x) = \frac{x}{\sqrt{x}+1}$. Prove using only the limit definition without L'Hospital's Rule that for any $a>0$, 
+
+$f'(a) = \frac{\sqrt{a}+2}{2(\sqrt{a}+1)^2}$.
+
+Answer:
+
+$f'(a) = \lim_{x \to a} \frac{\frac{x}{\sqrt{x}+1} - \frac{a}{\sqrt{a}+1}}{x-a}$
+
+$= \lim_{x \to a} \frac{x(\sqrt{a}+1)-a(\sqrt{x}+1)}{(\sqrt{x}+1)(\sqrt{a}+1)(x-a)}$
+
+$= \lim_{x \to a} \frac{x\sqrt{a}+x-a\sqrt{x}-a}{(\sqrt{x}+1)(\sqrt{a}+1)(x-a)}$
+
+$= \lim_{x \to a} \frac{x\sqrt{a}-a\sqrt{x}}{(\sqrt{x}+1)(\sqrt{a}+1)(x-a)}+\lim_{x \to a} \frac{x-a}{(\sqrt{x}+1)(\sqrt{a}+1)(x-a)}$
+
+$= \lim_{x \to a} \frac{(x\sqrt{a}-a\sqrt{x})(x\sqrt{a}+a\sqrt{x})}{(x\sqrt{a}+a\sqrt{x})(\sqrt{x}+1)(\sqrt{a}+1)(x-a)} + \lim_{x \to a} \frac{1}{(\sqrt{x}+1)(\sqrt{a}+1)}$
+
+$= \lim_{x \to a} \frac{x^2 a - a^2 x}{(x\sqrt{a}+a\sqrt{x})(\sqrt{x}+1)(\sqrt{a}+1)(x-a)} + \frac{1}{(\sqrt{a}+1)^2}$
+
+$= \lim_{x \to a} \frac{ax(x-a)}{(x\sqrt{a}+a\sqrt{x})(\sqrt{x}+1)(\sqrt{a}+1)(x-a)} + \frac{1}{(\sqrt{a}+1)^2}$
+
+$= \lim_{x \to a} \frac{ax}{(x\sqrt{a}+a\sqrt{x})(\sqrt{x}+1)(\sqrt{a}+1)} + \frac{1}{(\sqrt{a}+1)^2}$
+
+$= \frac{a^2}{2a\sqrt{a}(\sqrt{a}+1)^2} + \frac{1}{(\sqrt{a}+1)^2}$
+
+$= \frac{\sqrt{a}}{2(\sqrt{a}+1)^2} + \frac{1}{(\sqrt{a}+1)^2} = \frac{\sqrt{a}+2}{2(\sqrt{a}+1)^2}$.
+
+(0-5 marks for incomplete working such as skipping essential steps or major errors, 6-8 marks for minor errors)
+
+1(b) (7 marks)
+
+Let $f : \mathbb{R} \rightarrow \mathbb{R}$ be a twice-differentiable function such that $f(1) = 3$, $f(3) = 8$, $f(4) = 10$, $f(6) = 15$. Show that there exists some $c \in \mathbb{R}$ such that $f''(c) = 0$.
+
+Answer:
+
+Since f is continuous on [1,3] and differentiable on (1,3) so by the Mean Value Theorem, there exists some $a \in (1,3)$ such that $f'(a) = \frac{f(3)-f(1)}{3-1} = \frac{8-3}{2} = \frac{5}{2}$. 
+
+Since f is continuous on [4,6] and differentiable on (4,6) so by the Mean Value Theorem again, there exists some $b \in (4,6)$ such that $f'(b) = \frac{f(6)-f(4)}{6-4} = \frac{15-10}{2} = \frac{5}{2}$. 
+
+Note that $a<b$. Since the derivative $f'$ is continuous on $[a,b]$ and differentiable on $(a,b)$, and $f'(a)=f'(b)$, so by Rolle's Theorem, there exists some $c \in (a,b)$ such that $f''(c) = 0$.
+
+(2,2,3 marks respectively for each successful application of MVT/Rolle's Thm)
+
+1(c) (4 marks)
+
+Give an example of a differentiable function $g : \mathbb{R} \rightarrow \mathbb{R}$ such that for every positive integer $n$, there exists exactly one real number $x_n$ such that $g'(x_n)=n$, and provide an explicit formula for $x_n$ in terms of $n$.
+
+Answer:
+
+$g(x) = e^x$ would be one such example -- in this case, $x_n = \ln(n) = \log_e(n)$.
+
+Accept any valid example.
+
+(2 marks for correct example, 2 marks for formula of $x_n$)
+
+\newpage
+
+Q(2) (20 marks)
+
+Let $r$ be a positive real number. Suppose that $f : [3,6] \rightarrow \mathbb{R}$ is a function that is three times differentiable on the closed interval $[3,6]$ and which satisfies $f(4) = 16 \ln(5)$, $f'(4) = \frac{16}{5} + 8 \ln(5)$, $f''(4) = \frac{64}{25} + \ln(5)$, and $|f'''(x)| \leq r$ for $3 \leq x \leq 6$. Here, $\ln(w)$ denotes the natural logarithm of $w$, that is, $\log_e(w)$.
+
+2(a) (4 marks)
+
+Find the Taylor polynomial $P_2(x)$ of $f(x)$ about the point $x=4$, that is, the Taylor expansion about $4$ up to and including the term $(x-4)^2$.
+
+2(b) (3 marks)
+
+Find the maximum error in estimating $f(x)$ in the domain $[3,6]$ using the Taylor polynomial $P_2(x)$ about $x=4$, expressing your answer in terms of $r$.
+
+2(c) (4 marks)
+
+Use an appropriate Taylor polynomial to estimate the value of $\int_4^{4.1} f(x) \ dx$, giving your answer to 3 decimal place accuracy.
+
+2(d) Define a function $g(x) = x^2 \ln(x)$.
+
+2(d)(i) (5 marks) 
+
+Prove $g(4) = 16 \ln(5)$, $g'(4) = \frac{16}{5} + 8 \ln(5)$, $g''(4) = \frac{64}{25} + \ln(5)$.
+
+2(d)(ii) (4 marks)
+
+Given that  $\int g(x) \ dx = \frac{1}{18} (6 (x^3 + 1) \ln(x + 1) - 2x^3 + 3x^2 - 6x)$, determine the percentage error that would be incurred
+
+$\frac{\text{difference between actual and estimated value}}{\text{actual value}} \times 100 \%$
+
+in estimating $\int_4^{4.1} g(x) \ dx$ using the Taylor polynomial  $P_2(x)$ of $g(x)$ about the point $x=4$ compared to integrating the actual function.
+
+
+
+
+
+
+
+
+	
+\newpage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\bigskip
+
+\noindent
+{\bf Question 1}
+
+\bigskip
+
+\noindent
+{\bf 1(a)}
+
+Write down the negation of the statement
+
+$\forall x \in \mathbb{N} \  \ \exists y \in \mathbb{Z} \ \ \exists z \in \mathbb{R} \ \ \frac{x}{y^2+1} = \frac{y}{z^2+1}$
+
+Answer:
+
+$\exists x \in \mathbb{N} \  \ \forall y \in \mathbb{Z} \ \ \forall z \in \mathbb{R} \ \ \frac{x}{y^2+1} \neq \frac{y}{z^2+1}$
+
+\bigskip
+
+\noindent
+{\bf 1(b)}
+
+Give an example to show that the following statement is false:
+
+$\forall x \in \mathbb{Z} \ \ \exists y \in \mathbb{Z} \ \ \exists z \in \mathbb{N} \ \ (xy \geq 2z \vee xy \leq -3z)$
+
+Answer:
+
+Let $x=0$.
+
+Then for all $y \in \mathbb{Z}$ we have $xy=0$ and hence, for all $z \in \mathbb{N}$, $-3z < xy < 2z$.
+
+\bigskip
+
+\noindent
+{\bf 1(c)}
+
+Use the rules of inference for quantified statements to show that the following argument form is valid.
+
+$\forall x \ \ P(x) \longrightarrow \sim Q(x)$
+
+$\forall x \ \ Q(x) \vee R(x)$
+
+$\exists x \ \ \sim R(x)$
+
+Conclusion: $\exists x \ \ \sim P(x)$
+
+Answer:
+
+(1) $\forall x \ \ P(x) \longrightarrow \sim Q(x)$ -- premise
+
+(2) $P(c) \longrightarrow \sim Q(c)$ for all $c$ -- UI from (1)
+
+(3) $\forall x \ \ Q(x) \vee R(x)$ -- premise
+
+(4) $Q(d) \vee R(d)$ for all $d$ -- UI from (3)
+
+(5) $\exists x \ \ \sim R(x)$ -- premise
+
+(6) $\sim R(e)$ for some $e$ -- EI from (5)
+
+(7) $Q(e)$ -- elimination from (4) and (6)
+
+(8) $\sim P(e)$ -- Modus Tollens from (2) and (7)
+
+(9) $\exists x \ \ \sim P(x)$ -- EG from (8)
+
+\bigskip
+
+\noindent
+{\bf 1(d)}
+
+Let $D = \{ x \in \mathbb{Z} \ : \ -15 \leq x \leq 15 \}$.
+
+Define the predicate $P(x)$ to be
+
+$( x \leq -3 \wedge x \ \text{is odd)} \ \vee \ (\exists y \in \mathbb{Z} \ \ xy=4)$
+
+Determine the truth set of $P(x)$.
+
+Answer:
+
+$\{ -15, -13, -11, -9, -7, -5, -4, -3, -2, -1, 1, 2, 4 \}$
+
+\bigskip
+
+\noindent
+{\bf 1(e)}
+
+Define the predicates 
+
+$P(x)$ : $x$ makes delicious pancakes
+
+$Q(x,y)$ : $x$ likes to eat the pancakes that $y$ makes
+
+Use the predicates $P(x)$ and $Q(x,y)$ to write down a single quantified statement expressing all of the following:
+
+Mary does not like to eat the pancakes that Susan makes even though Susan makes delicious pancakes. Furthermore, Susan likes to eat the pancakes that Mary makes only if Mary makes delicious pancakes.
+
+Answer:
+
+$(\sim Q(Mary,Susan)) \wedge P(Susan) \wedge (Q(Susan,Mary) \longrightarrow P(Mary)) $
+
+\hrule 
+
+\bigskip
+
+\noindent
+{\bf Question 2}
+
+\bigskip
+
+\noindent
+{\bf 2(a)}
+
+
+
+
+
+
+\end{document}
+
+
+
+2(d) (3 marks)
+
+Let $P(x)$ denote the predicate "$x$ misses the bus".
+
+Let $Q(x)$ denote the predicate "$x$ is late for work".
+
+Let $R(x)$ denote the predicate "$x$ goes home late".
+
+Let $S$ denote the set of workers.
+
+Write a quantified statement that best approximates the meaning of the English sentence: "If any worker goes home late, it implies that they either missed the bus or was late for work, but not both".
+
+Answer:
+
+$\forall x \in S \ , \ R(x) \longrightarrow ((P(x) \vee Q(x))\wedge \sim (P(x) \wedge Q(x)))$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Let $r$ be a positive real number. Suppose that $f : [3,6] \rightarrow \mathbb{R}$ is a function that is three times differentiable on the closed interval $[3,6]$ and which satisfies $f(4) = 16 \ln(5)$, $f'(4) = \frac{16}{5} + 8 \ln(5)$, $f''(4) = \frac{64}{25} + \ln(5)$, and $|f'''(x)| \leq r$ for $3 \leq x \leq 6$. Here, $\ln(w)$ denotes the natural logarithm of $w$, that is, $\log_e(w)$.
+
+(a) (4 marks)
+
+Find the Taylor polynomial $P_2(x)$ of $f(x)$ about the point $x=4$, that is, the Taylor expansion about $4$ up to and including the term $(x-4)^2$.
+
+(b) (3 marks)
+
+Find the maximum error in estimating $f(x)$ in the domain $[3,6]$ using the Taylor polynomial $P_2(x)$ about $x=4$, expressing your answer in terms of $r$.
+
+(c) (4 marks)
+
+Use an appropriate Taylor polynomial to estimate the value of $\int_4^{4.1} f(x) \ dx$, giving your answer to 1 decimal place accuracy.
+
+(d) Define a function $g(x) = x^2 \ln(x)$.
+
+(d)(i) (5 marks) 
+
+Prove $g(4) = 16 \ln(5)$, $g'(4) = \frac{16}{5} + 8 \ln(5)$, $g''(4) = \frac{64}{25} + \ln(5)$.
+
+(d)(ii) (4 marks)
+
+Given that  $\int g(x) \ dx = \frac{1}{18} (6 (x^3 + 1) \ln(x + 1) - 2x^3 + 3x^2 - 6x)$, determine the percentage error in computing $\int_4^{4.1} g(x) \ dx$ using the Taylor polynomial  $P_2(x)$ of $g(x)$ about the point $x=4$ as opposed to the actual function.
+
+
+
+
+
+
+
+
+
+
